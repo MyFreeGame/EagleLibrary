@@ -1,0 +1,2717 @@
+"1kSurvey_LevelReached","第 1000 關終於完成了！
+
+有了你和全世界傑出珠寶匠的意見，我們才能做出這個讓人眼睛一亮的關卡。
+
+我相信你一定會很喜歡這關！"
+"1kSurvey_Presentation","哇呼！你在這趟美妙旅程開始之後也過了一段時間了。
+
+我相信你的心中應該已經有第 1000 關的樣子了吧…"
+"1kSurvey_PresentationOptOut","不用了，謝謝"
+"1kSurvey_Q1","太棒了！那我們開始吧！你最喜歡哪一種遊戲模式？"
+"1kSurvey_Q1A1","抵達終點線"
+"1kSurvey_Q1A2","寶盒娃娃"
+"1kSurvey_Q1A3","珠寶盒"
+"1kSurvey_Q2A1","魔術小鳥"
+"1kSurvey_Q2A2","爆破光暈"
+"1kSurvey_Q2A3","色彩爆破"
+"1kSurvey_Q2T1T2T3","太有趣了…那你覺得哪種工具在關卡中最有用呢？"
+"1kSurvey_Q3A1","短關卡"
+"1kSurvey_Q3A2","長關卡"
+"1kSurvey_Q3A3","兩者皆是"
+"1kSurvey_Q3T1","我也喜歡這些小鳥！你喜歡可以在短時間內過關的關卡，或是比較長的關卡？"
+"1kSurvey_Q3T2","繽紛的爆炸！你喜歡可以在短時間內過關的關卡，或是比較長的關卡？"
+"1kSurvey_Q3T3","和同一種顏色說再見！你喜歡可以在短時間內過關的關卡，或是比較長的關卡？"
+"1kSurvey_Q4A1","產生魔法道具"
+"1kSurvey_Q4A2","消除障礙物"
+"1kSurvey_Q4A3","收集鑽石"
+"1kSurvey_Q4T1T2T3","我也是！你在闖關時最喜歡的遊戲內容是？"
+"1kSurvey_Q5A1","緞帶"
+"1kSurvey_Q5A2","花朵"
+"1kSurvey_Q5A3","胸針"
+"1kSurvey_Q5T1T2T3","你的想法很有策略性喔！關卡中的障礙物的確讓人苦惱…你覺得哪種障礙物最難解？"
+"1kSurvey_Q6A1","香水"
+"1kSurvey_Q6A2","重力"
+"1kSurvey_Q6A3","鑰匙和鎖"
+"1kSurvey_Q6T1T2T3","那真的很難解！你覺得遊戲中的哪種特色最有趣？"
+"1kSurvey_Thanks","太棒了！感謝你的意見！
+
+集合了你和其他傑出珠寶匠的意見，一定能讓第 1000 關有聲有色。
+
+請繼續挑戰吧，就差幾步了！"
+"3_moves_reminder","還剩 3 步！"
+"5_moves_reminder","還剩 5 步！"
+"Bernadetta_bottles_intro","打開瓶子，看看會發生什麼事！"
+"Bernadetta_bottles_outro","打開所有香水瓶！"
+"Bernadetta_box_intro","鑽石都藏在珠寶盒裡！"
+"Bernadetta_box_outro","打開所有珠寶盒！"
+"Bernadetta_diamond_intro","事不宜遲！開始收集鑽石吧！"
+"Bernadetta_diamond_outro","你辦到了！"
+"Bernadetta_doll_intro","鑽石都藏在寶盒娃娃裡！"
+"Bernadetta_doll_outro","快找出鑽石！"
+"Bernadetta_hybrid_intro","收集所有鑽石！"
+"Bernadetta_hybrid_outro","全都取回了！"
+"Block.Signin_button","登入"
+"Block_Body","登入並開始玩"
+"Block_celebratory_message","已成功登入！"
+"Block_connectingserver","連線中"
+"Block_welcome","歡迎！"
+"Cheering_text_blast_created","產生一顆爆破光暈！"
+"Cheering_text_color_blast_created","產生一顆色彩爆破！"
+"Cheering_text_cross_created","產生一顆十字爆破！"
+"Cheering_text_cross_ray_created","產生一枚十字光束！"
+"Cheering_text_ray_created","產生一顆光束！"
+"Cheering_text_star_created","產生一顆星光爆破！"
+"Cross_hammer_compensation","抱歉，我們移除了十字轟炸錘！
+
+您先前購買的十字轟炸錘會以金條的形式退還至您遊戲內的銀行中。"
+"DDS.IGP.Sunset.Canvas.Body","從 22 年 3 月 31 日起，該遊戲將無法在 Facebook 上玩，但您仍然可以在 Android 或 iOS 上玩移動版"
+"DiDS.IGP.Sunset.Canvas.Download","立刻免費下載"
+"DiDS.IGP.Sunset.Canvas.QRCode","用手機掃描 QR 碼即可免費下載遊戲。"
+"Hint_Bottles_mode","串連香水瓶！"
+"Hint_Box_mode","串連珠寶盒！"
+"Hint_Diamond_mode","在鑽石下方連線！"
+"Hint_Dolls_mode","串連寶盒娃娃！"
+"Level","第 {0} 關"
+"NEW_KEY_1","Consent for Providing Personal Data to Third Parties 
+
+Please see here for further information: www.king.com/ko/TTP-information"
+"NEW_KEY_2","Consent for Overseas Transfer of Personal Data 
+
+Please see here for further information: www.king.com/ko/TTP-information"
+"PP_Title","Privacy Policy"
+"PP_whole_text","Consent for the collection/use of personal data
+Purposes of collection/use: (i) for the provision of services, managing your account and relationship with us, the handling of customer complaint, contacting you, identifying you and your device, provision of customized services, service improvements, promotion of our services, preventing cheating, crime and fraud and as otherwise set out in our Privacy Policy or required by law; and (ii), where you have chosen to allow it interacting with third party social networks and platforms, sending you push notifications and making use of your device’s advertising identifier.
+
+^- Items of personal data collected/used: (i) age, gender, location (country), access time/date, information about the kind of device you use, IP address, information on your use of our services, information you provide us with when you fill in forms when using our services, content of communications between you and King, information automatically collected via cookie/local Storage/session Storage etc.; and (ii) where you have chosen to allow it, a) information shared with us by third party social networks and platforms e.g. your name and ID on that network/platform, your email address, your contact list and profile picture (b) information about your gameplay and use of our games; and (c) your device’s ad identifier.
+
+^- Data retention/use period:  Your personal information will be destroyed without delay
+once the purposes for which it was collected/used are fulfilled
+unless otherwise provided in a privacy policy (e.g., if applicable law/regulation requires retention for a longer period).
+
+^- You may refuse to give consent to the collection/use of personal data essential for the provision of the services. However, in the case of refusal, you may not use the services.
+
+^Consent for Providing Personal Data to Third Parties
+
+Please see here for further information: www.king.com/ko/TTP-information
+
+^Consent for Overseas Transfer of Personal Data
+
+Please see here for further information: www.king.com/ko/TTP-information"
+"Pop_up_tips_title","提示"
+"Run_out_CTAbutton_run","開始！"
+"TPP_00","Consent for the collection/use of personal data"
+"TPP_01","Purposes of collection/use: (i) for the provision of services, managing your account and relationship with us, the handling of customer complaint, contacting you, identifying you and your device, provision of customized services, service improvements, promotion of our services, preventing cheating, crime and fraud and as otherwise set out in our Privacy Policy or required by law; and (ii), where you have chosen to allow it interacting with third party social networks and platforms, sending you push notifications and making use of your device’s advertising identifier."
+"TPP_02","- Items of personal data collected/used: (i) age, gender, location (country), access time/date, information about the kind of device you use, IP address, information on your use of our services, information you provide us with when you fill in forms when using our services, content of communications between you and King, information automatically collected via cookie/local Storage/session Storage etc.; and (ii) where you have chosen to allow it, a) information shared with us by third party social networks and platforms e.g. your name and ID on that network/platform, your email address, your contact list and profile picture (b) information about your gameplay and use of our games; and (c) your device’s ad identifier."
+"TPP_03","- Data retention/use period:  Your personal information will be destroyed without delay once the purposes for which it was collected/used are fulfilled unless otherwise provided in a privacy policy (e.g., if applicable law/regulation requires retention for a longer period)."
+"TPP_03_1","- Data retention/use period:  Your personal information will be destroyed without delay"
+"TPP_03_2","once the purposes for which it was collected/used are fulfilled"
+"TPP_03_3","unless otherwise provided in a privacy policy (e.g., if applicable law/regulation requires retention for a longer period)."
+"TPP_04","- You may refuse to give consent to the collection/use of personal data essential for the provision of the services. However, in the case of refusal, you may not use the services."
+"TPP_Consent_Checkbox","I consent to the collection/use of my personal data, as set out above.
+I consent to the provision of my personal data to third parties.
+I consent to the overseas transfer of my personal data."
+"TPP_Consent_Checkbox_1","I consent to the collection/use of my personal data, as set out above."
+"TPP_Consent_Checkbox_2","I consent to the provision of my personal data to third parties."
+"TPP_Consent_Checkbox_3","I consent to the overseas transfer of my personal data."
+"TPP_Tittle","Consent for Processing Personal Data"
+"TPP_button","Confirm"
+"TheLab_ApplePayment_Body","You will receive a confirmation soon"
+"TheLab_ApplePayment_Title","Processing transaction"
+"Tip_blast","串連 6 顆彩珠，可產生一顆任意顏色的爆破光暈彩珠。"
+"Tip_blast_title","爆破光暈"
+"Tip_color_blast","串連 12 顆彩珠，可產生一顆色彩爆破彩珠。"
+"Tip_color_blast_title","色彩爆破"
+"Tip_cross_blast","串連 9 顆彩珠，可產生一顆任意顏色的十字光束彩珠。"
+"Tip_cross_blast_title","十字爆破"
+"Tip_cross_ray_random","串連 9 顆彩珠，可產生一顆任意顏色的十字光束彩珠。"
+"Tip_cross_ray_random_title","十字光束"
+"Tip_linking","連接 3 顆或以上彩珠"
+"Tip_linking_title","連接 3 顆彩珠"
+"Tip_long_link","串起長珠來創造特殊力量！"
+"Tip_longer_link","串起的珠子越長，就能獲得更強的力量！"
+"Tip_ray_sequential","串連 6 顆彩珠，可產生一顆水平或垂直方向的光束彩珠。"
+"Tip_ray_title","光束"
+"Tip_star_ray_random","串連 12 顆彩珠，可產生一顆星光爆破"
+"Tip_star_ray_random_title","星光爆破"
+"Tips_Dolls_Title","寶盒娃娃"
+"Tips_Not_Discovered","繼續冒險就能發現更多遊戲提示。"
+"Tips_aiming","特殊威力彩珠可以在每次串連區域中任意移動"
+"Tips_aiming_title","瞄準"
+"Tips_bird","串連閃爍的彩珠，釋放魔術小鳥。"
+"Tips_bird_title","魔術小鳥"
+"Tips_bottles","串連香水瓶，就能打開瓶子。 "
+"Tips_bottles_title","香水瓶"
+"Tips_boxes","串連珠寶盒，就能打開珠它們。"
+"Tips_boxes_title","珠寶盒"
+"Tips_cancelling","如要取消當次串連，請把手指移出當前的連結範圍。"
+"Tips_cancelling_title","取消串連"
+"Tips_cross_ray_sequencial_title","十字光束"
+"Tips_diamond","讓鑽石落到項鍊上就能完成一條首飾。"
+"Tips_diamond_title","鑽石"
+"Tips_dolls","串連寶盒娃娃，就能打開它們。"
+"Tips_ray_cross_sequencial","串連 9 顆彩珠，可產生一顆十字光束彩珠。"
+"Tips_ray_random","串連 6 顆彩珠，可產生一顆隨意顏色得到單向光束彩珠。"
+"Tips_ray_random_title","光束"
+"Tips_star_ray_sequencial","串連 12 顆彩珠，可產生一顆星光爆破。"
+"Tips_star_ray_sequential_title","星光爆破"
+"ToS_00","Terms of Service for users resident in Korea"
+"ToS_01","1. About these terms"
+"ToS_01.1","1.1 These terms create a legal agreement between you (“you” or “your”) and King.com Limited of Aragon Business Centre Level 4, Dragonara Road, St Julians STJ3140, Malta, a company registered in Malta with registration number C42504 (“King”, “we”, “us” or “our”) in relation to your download, access and/or use of King games (each a “Game” and together the “Games”). These terms also apply to any other services that we may provide in relation to the Games, such as customer support, social media, community channels and other websites that we may operate from time to time (we refer to all our Games and other services collectively as the \"Services\" in these terms). You agree that by downloading and/or accessing our Services, you are agreeing to these terms and our Privacy Policy (see paragraph 10 below). If you do not agree to these terms or any future updated version of them then you must not access and/or use, and must cease all access and/or use of, any of our Services. If we require that any future update to these terms requires any action from you in order to accept the updated terms, then you may not be able to continue to use the Services until you have taken such action."
+"ToS_01.2","1.2 These terms apply to those of our players who are resident in Korea; if you are resident in another country then a different set of terms applies to you.  You can access the latest update of all country-specific versions of our terms, including these terms, at any time by visiting http://about.king.com/consumer-terms/ and selecting the flag corresponding to the country in which you are resident."
+"ToS_01.3","1.3 You agree that you are at least 14 years old and that if you are between 14 years old and 19 years old, your legal guardian has reviewed and agrees to these terms and is happy for you to access and/or use our Services."
+"ToS_01.4","1.4 We can make changes to these terms at any time in accordance with paragraph 14 below and your continued use of our Services shall confirm your acceptance of the updated terms."
+"ToS_02","2. About accessing and using our Services"
+"ToS_02.1","2.1 The specific game rules, scoring rules, controls and guidelines for each Game can be found within the Game itself. Such rules, scoring rules, controls and guidelines form part of these terms and you agree that you shall comply with them in respect of each individual Game which you choose to access and/or play."
+"ToS_02.2","2.2 You are responsible for the internet connection and/or mobile charges that you may incur for accessing and/or using our Services. You should ask your mobile operator or internet service provider if you are unsure what these charges will be, before you play."
+"ToS_02.3","2.3 We have the right to withdraw or modify one or more of our Services (in whole or in part) without liability to you from time to time:
+•	for technical reasons (such as technical difficulties experienced by us or on the internet);
+•	to allow us to improve user experience; 
+•	where we have legal reasons for doing so (including privacy, data protection or other legal objections to the content or conduct of our Services); 
+•	because it no longer makes business sense for us to provide the relevant Services (in whole or in part); or
+•	because we have altered the services we provide."
+"ToS_02.4","2.4 There may also be times when our Services or any part of them are not available for technical or maintenance related reasons, whether on a scheduled or unscheduled basis."
+"ToS_03","3. Accounts"
+"ToS_03.1","3.1 When using our Services you may choose to, and in some instances you will be required to, create an account with us.  If you do create an account with us, you agree that you shall take all steps necessary to protect your log in details and keep them secret."
+"ToS_03.2","3.2 You agree that you shall not give your log in details to anyone else or allow anyone else to use your log in details or account."
+"ToS_03.3","3.3 In these terms, references to “log in details” or “account” include your log in details and account for any social network that you may allow our Services to interact with."
+"ToS_03.4","3.4 We will be entitled to assume that anyone logging into your account using your log in details is either you or someone logging in with your permission. If you fail to keep your login details secret, or if you share your login details or account with someone else (whether intentionally or unintentionally), you accept full responsibility for the consequences of this (including any unauthorized purchases) and agree to fully compensate us for any losses or harm that may result."
+"ToS_03.5","3.5 We will not be responsible to you for any loss that you suffer as a result of an unauthorised person accessing your account and/or using our Services and we accept no responsibility for any losses or harm resulting from its unauthorised use, whether fraudulently or otherwise."
+"ToS_03.6","3.6 We reserve the right to delete your account if no activity is conducted by you in relation to the account for 180 or more days. In such event, you will no longer be able to access and/or use any Virtual Money and/or Virtual Goods (as defined below) associated with that account and no refund will be offered to you in relation to the same."
+"ToS_03.7","3.7 You understand that if you delete your account, or if we delete your account in accordance with these terms or on your request, you may lose access to any data previously associated with your account (including without limitation, your progress through our Games and/or the level or score you have reached in our Games and any Virtual Money or Virtual Goods associated with your account)."
+"ToS_03.8","3.8 Your account is personal to you and you are not entitled to transfer your account to any other person."
+"ToS_04","4. Virtual Goods and Virtual Money"
+"ToS_04.1","4.1 Our Games may include virtual currencies such as Gold Bars (“Virtual Money”) or items or services for use with our Games (“Virtual Goods”). You can buy Virtual Money and/or Virtual Goods from us for real money and/or other credits provided that you are the payment account holder. If you are not at least 19 years old, you hereby acknowledge and agree that you have obtained consent from your legal representative for the purchase. You agree that Virtual Money and/or Virtual Goods are not transferrable to anyone else and you will not transfer or attempt to transfer any Virtual Money and/or Virtual Goods to anyone else."
+"ToS_04.2","4.2 You agree that once purchased Virtual Money and Virtual Goods have no monetary value and can never be exchanged for real money, real goods or real services from us or anyone else."
+"ToS_04.3","4.3 You do not own Virtual Goods and/or Virtual Money but instead you purchase a limited personal revocable licence to use them. Any balance of Virtual Goods and/or Virtual Money does not reflect any stored value."
+"ToS_04.4","4.4 If you do not connect your game play on a device to an account that is linked to either your social network account or a King account, we will not be able to restore any Virtual Money or other data associated with your Game play to a different device if you lose that device or it is damaged. Accordingly, on a device which is not connected in this way:
+•	any risk of loss of Virtual Money which you purchase from us is transferred to you upon completion of the purchase. For the purposes of this paragraph 4.4 and paragraph 4.5 below, a \"purchase\" is complete at the time our servers validate your purchase and the applicable Virtual Goods and/or Virtual Money are successfully credited to your account on our servers; 
+•	any risk of loss of Virtual Money that you receive from us without making a purchase is transferred to you at the time the Virtual Money is successfully credited to your account on our servers; and
+•	any risk of loss of other data associated with your Game play (including, without limitation, your progress through the Game, or the level or score you have reached in our Games) is transferred to you immediately at the time such Game play data is generated."
+"ToS_04.5","4.5 The data associated with Virtual Goods, whether purchased by you using Virtual Money or otherwise credited or awarded to you, is stored locally on your device and so is not synced between different devices even if you have connected your game play on a device to an account that is linked to either your social network account or King account.  Accordingly, any risk of loss of this data is transferred to you (i) in the case of Virtual Goods which you purchase from us, upon completion of the purchase as described in paragraph 4.4 above; and/or (ii) in other cases, at the time the Virtual Goods are credited or awarded to you."
+"ToS_04.6","4.6 We reserve the right to control, regulate, change or remove any Virtual Money or Virtual Goods without any liability to you."
+"ToS_04.7","4.7 We may revise the pricing for Virtual Goods and Virtual Money offered through the Services at any time. We may limit the total amount of Virtual Goods or Virtual Money that may be purchased at any one time, and/or limit the total amount of Virtual Money or Virtual Goods that may be held in your account in the aggregate. You are only allowed to obtain Virtual Money and Virtual Goods from us or our authorized partners through the Games, and not in any other way."
+"ToS_04.8","4.8 Depending on your platform, any Virtual Goods or Virtual Money purchased is purchased from your platform provider and such purchase will be subject to its terms of service and user agreement. Usage rights for each purchase may differ from item to item. If you are unsure about usage rights you should check with your platform before making a purchase. Unless otherwise shown, content available in any in-game store has the same age rating as the game."
+"ToS_04.9","4.9 Without limiting any other paragraph of these terms, if we suspend or terminate your account in accordance with paragraph 7 of these terms you may lose any Virtual Money and/or Virtual Goods that you may have and we will not compensate you for this loss or make any refund to you."
+"ToS_04.99","4.10 Refund Policy
+For a period of 7 days from the date of a purchase of Virtual Money or Virtual Goods using real money (a “Purchase Transaction”), you have a right to request a refund of the purchase price; provided, however, that if any or all of the Virtual Money or Virtual Goods bought in a Purchase Transaction is used within the 7 day period following the Purchase Transaction, you will no longer have a right to request a refund of purchase price for that Purchase Transaction. 
+Further, if the Virtual Money or Virtual Goods bought in a Purchase Transaction are bundled with other additional Virtual Goods and some or all of those additional Virtual Goods are used, then you will no longer have the right to request a refund of the purchase price for that Purchase Transaction.
+If at any time you receive any Virtual Money or Virtual Goods without payment by you, for instance as a prize or gift, that Virtual Money or Virtual Goods will not be refundable or otherwise capable of being exchanged for real money.
+Refunds can be requested through our customer care portal available at https://community.king.com and will be made via the payment partner through which the original purchase was made. The applicable Virtual Money and Virtual Goods which are the subject of a refund request may be removed from your account before the refund is processed."
+"ToS_05","5. User conduct and content"
+"ToS_05.1","5.1 You must comply with the laws that apply to you in the location that you access our Services from. If any laws applicable to you restrict or prohibit you from using our Services, you must comply with those legal restrictions or, if applicable, stop accessing and/or using our Services."
+"ToS_05.2","5.2 You promise that all the information you provide to us on accessing and/or using our Services is and shall remain true, accurate and complete at all times."
+"ToS_05.3","5.3 Information, data, software, sound, photographs, graphics, video, tags, or other materials  may be sent, uploaded, communicated, transmitted or otherwise made available via our Services by you or another user (“Content”). You understand and agree that all Content that may be sent when using our Services, whether publicly posted or privately sent, is the sole responsibility of the person that sent the Content. This means that you, not us, are entirely responsible for all Content that you may upload, communicate, transmit or otherwise make available via our Services."
+"ToS_05.4","5.4 You agree not to upload, communicate, transmit or otherwise make available any Content:
+
+•	that is or could reasonably be viewed as unlawful, harmful, harassing, defamatory, libelous, obscene or otherwise objectionable; 
+•	that is or could reasonably be viewed as invasive of another's privacy;
+•	that is likely to, or could reasonably be viewed as likely to incite violence or racial or ethnic hatred;
+•	which you do not have a right to make available lawfully (such as inside information, information which belongs to someone else or confidential information);
+•	which infringes any intellectual property right or other proprietary right of others;
+•	which consists of any unsolicited or unauthorised advertising, promotional materials, 'junk mail', 'spam', 'chain letters', 'pyramid schemes' or any other form of solicitation; or
+•	which contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment."
+"ToS_05.5","5.5 You agree that you will not: 
+
+•	use our Services to harm anyone or to cause offence to or harass any person;
+•	create more than one account per platform to access our Services;
+•	use another person or entity’s email address in order to sign up to use our Services;
+•	use our Services for fraudulent or abusive purposes (including, without limitation, by using our Services to impersonate any person or entity, or otherwise misrepresent your affiliation with a person, entity or our Services);
+•	disguise, anonymise or hide your IP address or the source of any Content that you may upload;
+•	use our Services for any commercial or business purpose or for the benefit of any third party or to send unsolicited communications;
+•	remove or amend any proprietary notices or other ownership information from our Services; 
+•	interfere with or disrupt our Services or servers or networks that provide our Services;
+•	attempt to decompile, reverse engineer, disassemble or hack any of our Services, or to defeat or overcome any of our encryption technologies or security measures or data transmitted, processed or stored by us;
+•	'harvest', 'scrape' or collect any information about or regarding other people that use our Services, including, but not limited to any personal data or information (including by uploading anything that collects information including but not limited to 'pixel tags' cookies, graphics interchange formats ('gifs') or similar items that are sometimes also referred to as 'spyware' or 'pcms' (passive collection mechanisms);
+•	sell, transfer or try to sell or transfer an account with us or any part of an account, Virtual Money and/or Virtual Goods;
+•	disrupt the normal flow of a Game or otherwise act in a manner that is likely to negatively affect other players' ability to compete fairly when playing our Games or engaging in real time exchanges;
+•	disobey any requirements or regulations of networks connected to our Services;
+•	use our Services in violation of any applicable law or regulation;
+•	use our Services to cheat or design or assist in cheating (for example, by using automated means or third party software to play), or to otherwise circumvent technological measures designed to control access to, or elements of, our Services, or to do anything else that a reasonable person is likely to believe isn't within the spirit of fair play or these terms; or
+•	use our Services in any other way not permitted by these terms."
+"ToS_05.6","5.6 If you are concerned that someone else is not complying with any part of these terms, please contact us here: reportabuse@support.king.com."
+"ToS_05.7","5.7 We do not control Content posted via our Services by other people and therefore we do not guarantee the accuracy, integrity or quality of that Content. You understand that when using our Services, you may be exposed to Content that you may consider offensive, indecent or objectionable. Under no circumstances will we be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any losses or harm of any kind resulting from the use of any Content posted, emailed, transmitted or otherwise made available via our Services."
+"ToS_05.8","5.8 We have the right to remove uploaded Content from our Services if we decide in our sole discretion that it results in or from a breach of any part of these terms, or that it may bring us or our Services into disrepute. We reserve the right to monitor any and all Content for any breaches of these terms.  However, you acknowledge that we do not necessarily actively monitor Content that is contributed by people that use our Services and we make no undertaking to do so."
+"ToS_05.9","5.9 You are solely responsible for your interactions with other users of our Services."
+"ToS_06","6. Playing our Games with others"
+"ToS_06.1","6.1 Some of our Games allow you to play against an opponent or to play socially with others, such as by seeing their progress. You may be able to (i) choose to play against another person or play socially with another person whom King selects for you, or (ii) play against, or play socially with, one of your contacts on a platform or social network which you have allowed our Games to interact with. Some of our Games may also allow you to search for your contacts (for example, by email address) in order to find them to play against or play socially with. We may also display the display names of your past opponents so that you can easily find them to play again."
+"ToS_06.2","6.2 Where King selects another person for you to play with, we may either select at random or use such criteria as we see fit to select your opponent (for example, your past scores, your country, the level you have reached in the Game or your other gameplay activity)."
+"ToS_06.3","6.3 By accessing and/or playing our Games, you agree that your display name, scores, avatar, online/offline status and other related details may be displayed to other users. You also understand and agree that other users may find you by searching for you with your email address. We may also send you gifts or Virtual Goods and/or Virtual Money and/or pass on messages to you on behalf of those you are playing with. Please note that we will only show your display name publicly, and not your email address; another user must know your email address themselves in order to search for you."
+"ToS_07","7. Your breach of these terms"
+"ToS_07.1","7.1 Without limiting any other remedies or any other paragraph of these terms, if we reasonably believe that you are in material breach of these terms (including by repeated minor breaches), we reserve the right to take any of the following actions, whether individually or in combination, and either with or without notice to you: 
+•	delete, suspend and/or modify your account or parts of your account;
+•	otherwise suspend and/or terminate your access to our Services;
+•	modify and/or remove any Virtual Money or Virtual Goods that may be associated with your account;
+•	reset and/or modify any game progression or benefits and privileges associated with your account, such as any level or score you have reached in our Games.
+Without limitation, any breaches of clauses 4.1, 4.7, 5.4 or 5.5 are likely to be considered material breaches."
+"ToS_07.2","7.2 You agree to compensate us, according to law, for all losses, harm, claims and expenses that may arise from any breach of these terms by you."
+"ToS_08","8. Availability of the Services, Disclaimer and release"
+"ToS_08.1","8.1 Subject to the next sentence, we do not guarantee that any of our Services will be available or error-free at all times or at any given time. We will provide our Services in accordance with any legally required standards. In particular, in relation only to any Virtual Money and/or Virtual Goods or any other part of our Services which have been paid-for with real money, we warrant that they will substantially comply with the description provided by it at the point of purchase and be of satisfactory quality (in addition any related services provided through them will be provided with reasonable care and skill)."
+"ToS_08.2","8.2 We accept liability for death or personal injury resulting from our negligence or that of our employees or agents, and for losses or harm caused by fraud by us or our agents, or any other liability which may not by law be excluded."
+"ToS_08.3","8.3 We are not responsible for:
+•	losses or harm not caused by our breach of these terms or negligence; or
+•	losses or harm which are not reasonably foreseeable by you and us at the time of you agreeing to these terms and conditions including those losses which happen as a side effect of foreseeable losses. This could include loss of data, loss of opportunity, service interruption, computer or other device failure or financial loss;
+•	any damage that may be caused to any device on which you access or use any of our Games or other Services that is caused in any way by our Services unless that damage is directly caused by our failure to exercise reasonable skill and care in the provision of the applicable Games or other Services;
+•	any increase in loss or damage resulting from breach by you of any of these terms and conditions; or
+•	technical failures or the lack of availability of any of our Services where these are not within our reasonable control."
+"ToS_08.4","8.4 For any losses or harm (other than those mentioned in paragraph 8.2 and subject to paragraph 8.3) in any period of twelve months, we will only be responsible for losses or harm which are a reasonably foreseeable consequence of our negligence or breach of these terms and conditions up to the value of the amount that you have paid to us in the 100 day period ending on the date of your claim. Losses and harm are foreseeable only where they could be contemplated by you and us at the time of you agreeing to these terms and conditions."
+"ToS_08.5","8.5 Subject to paragraph 8.6 below and unless otherwise specified in these Terms, we do not give any warranty, express or implied, in relation to our Services and you acknowledge that your only right with respect to any problems or dissatisfaction with any of our Services is to discontinue your use of our Services."
+"ToS_08.6","8.6 Any additional legal rights which you may have as a consumer remain unaffected by these terms."
+"ToS_09","9. Intellectual property"
+"ToS_09.1","9.1 You acknowledge that all copyright, trade marks, and other intellectual property rights in and relating to our Services (other than Content which is contributed by players) is owned by or licensed to us."
+"ToS_09.2","9.2 Whilst you are in compliance with these terms, we grant you a non-exclusive, non-transferable, personal, revocable limited licence to access and use our Services (but not the related object and source code) for your own personal private use, in each case provided that such use is in accordance with these terms. You agree not to use our Services, or any elements thereof, for anything else. These terms also apply to any update or patches which we may release or make available for any of the Services and any such update or patch shall be deemed part of the Services for the purposes of these terms."
+"ToS_09.3","9.3 You must not copy, distribute, make available to the public or create any derivative work from our Services or any part of our Services unless we have first agreed to this in writing."
+"ToS_09.4","9.4 In particular, and without limiting the application of paragraph 9.3, you must not make available any cheats or technological measures designed to control access to, or elements of, our Services, including providing access to any Virtual Money and/or Virtual Goods, whether on a free of charge basis or otherwise."
+"ToS_09.5","9.5 By submitting Content (as defined in paragraph 5.3) you: 
+•	are representing that you are fully entitled to do so;
+•	grant us and our group companies the right to edit, adapt, publish and use your entry and any derivative works we may create from it, in any and all media (whether it exists now or in the future), for any purpose, in perpetuity, without any payment to you;
+•	acknowledge that you may have what are known as “moral rights” in the Content, for example the right to be named as the creator of your entry and the right not to have work subjected to derogatory treatment. You agree to waive any such moral rights you may have in the Content; and
+•	agree that we have no obligation to monitor or protect your rights in any Content that you may submit to us, but you do give us the right to enforce your rights in that Content if we want to, including but not limited to taking legal action (at our cost) on your behalf."
+"ToS_09.6","9.6 You must not copy, distribute, make available to the public or create any derivative work from any Content belonging to any other user of our Services. If you believe that your intellectual property rights have been infringed by someone else over the internet, you may contact us by emailing the following information to ip-notice@king.com: 
+•	a description of the intellectual property rights and an explanation as to how they have been infringed; 
+•	a description of where the infringing material is located;
+•	your address, phone number and email address;
+•	a statement by you, made under penalty of perjury, that you (i) have a good-faith belief that the disputed use of the material in which you own intellectual property rights is not authorized, and (ii) that the information that you are providing is accurate, correct, and that you are authorised to act on behalf of the owner of an exclusive right that is allegedly infringed; and
+•	a physical or electronic signature of the person authorised to act on behalf of the owner of the exclusive right that has allegedly been infringed."
+"ToS_09.7","9.7 We do not consider or accept unsolicited proposals or ideas, including, for example, ideas for new games, characters, game names, mechanics, technologies, promotions, game feedback and improvements (“Unsolicited Proposals”). If, despite this, you send any Unsolicited Proposals to us, you acknowledge and agree that we are not required to keep them confidential and that we are permitted to use them for any purposes whatsoever without any liability or payment to you of any kind."
+"ToS_10","10. Privacy"
+"ToS_10.1","10.1 We are registered with the data protection authority in Malta."
+"ToS_10.2","10.2 We will only collect, process, use and share your personal information in accordance with our Privacy Policy and as set out in these terms. By downloading and/or accessing our Services, you give your consent to us collecting, processing, using and sharing your personal data in this way. If you do not agree to our Privacy Policy you shouldn't download and/or access our Games or otherwise access and/or use our Services."
+"ToS_10.3","10.3 Any personal information that we may collect may also be subject to the policy of any social network that you may agree to link our Services to. If you access our Games and you allow them to interact with a social network, you are giving us permission to use your email address and other information which that social network shares with us that will allow us to personally identify you. You are also granting us permission to help your contacts on that social network find you so you can play socially. This is intended to make our Games more enjoyable for you and others that play our Games on the social network.  If you do not agree to these practices you should not allow our Games to interact with your social network."
+"ToS_11","11. Links"
+"ToS_11.1","11.1 We may link to third party websites or services from our Services. You understand that we make no promises regarding any content, goods or services provided by such third parties and we do not endorse the same. We are also not responsible to you in relation to any losses or harm caused by such third parties. Any charges you incur in relation to those third parties are your responsibility. You understand that when you provide data to such third parties you are providing it in accordance with their privacy policy (if any) and our own privacy policy does not apply in relation to that data."
+"ToS_12","12. Transferring these terms"
+"ToS_12.1","12.1 We may wish to transfer all or a part of our rights or responsibilities under these terms to someone else without obtaining your consent. You agree that we may do so provided that the transfer does not significantly disadvantage you. You may not transfer any of the rights we give you under these terms unless we first agree to this in writing."
+"ToS_13","13. Entire agreement"
+"ToS_13.1","13.1 These terms set out the entire agreement between you and us concerning our Services (as defined in paragraph 1) and they replace all earlier agreements and understandings between you and us."
+"ToS_14","14. Changes to these terms"
+"ToS_14.1","14.1 You can find these terms at any time by visiting http://about.king.com/consumer-terms/  and selecting the Korean country version. We reserve the right to update these terms from time to time by posting the updated version at that address. We may do so because we change the nature of our products or services, for technical or legal reasons, or because the needs of our business have changed. You will be deemed to have agreed to any modified version of these terms if you do not expressly refuse the modified version within a 30-day period. You agree that if you do not accept any amendment to our terms then you shall immediately stop accessing and/or using our Services."
+"ToS_15","15. Severability"
+"ToS_15.1","15.1 If any part of these terms is held to be invalid or unenforceable under any applicable local laws or by an applicable court, that part shall be interpreted in a manner consistent with applicable law to reflect as nearly as possible our original intentions and the remainder of these terms shall remain valid and enforceable."
+"ToS_16","16. Waivers of our rights"
+"ToS_16.1","16.1 Our failure to exercise or enforce any of our rights under these terms does not waive our right to enforce such right. Any waiver of such rights shall only be effective if it is in writing and signed by us."
+"ToS_17","17. Complaints and dispute resolution"
+"ToS_17.1","17.1 Most concerns can be solved quickly by contacting us at queries@support.king.com."
+"ToS_17.2","17.2 You are contracting with King.com Limited whose address is Aragon Business Centre Level 4, Dragonara Road, St Julian’s STJ3140, Malta and the laws of England shall govern the interpretation of these terms and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and claims in negligence and tort, will be subject to the laws of the country in which you are resident. If there is a dispute between us regarding these Terms of Use, then that dispute will be subject to the jurisdiction of the courts of England unless the law in your country of residence allows you to choose the courts of that country for the dispute in question."
+"ToS_18","18. Questions about these terms"
+"ToS_18.1","18.1 If you have any questions about these terms or our Services you may contact us by queries@support.king.com."
+"ToS_18.2","18.2 These terms were last updated on April 3, 2017."
+"ToS_Consent_Checkbox","我同意上述條款"
+"ToS_Tittle","Terms of Service"
+"ToS_button","Confirm"
+"ToS_whole_text2","Terms of Service for users resident in Korea
+
+1. About these terms
+
+1.1 These terms create a legal agreement between you (“you” or “your”) and King.com Limited of Aragon Business Centre Level 4, Dragonara Road, St Julians STJ3140, Malta, a company registered in Malta with registration number C42504 (“King”, “we”, “us” or “our”) in relation to your download, access and/or use of King games (each a “Game” and together the “Games”). These terms also apply to any other services that we may provide in relation to the Games, such as customer support, social media, community channels and other websites that we may operate from time to time (we refer to all our Games and other services collectively as the ”Services” in these terms). You agree that by downloading and/or accessing our Services, you are agreeing to these terms and our Privacy Policy (see paragraph 10 below). If you do not agree to these terms or any future updated version of them then you must not access and/or use, and must cease all access and/or use of, any of our Services. If we require that any future update to these terms requires any action from you in order to accept the updated terms, then you may not be able to continue to use the Services until you have taken such action.
+
+^1.2 These terms apply to those of our players who are resident in Korea; if you are resident in another country then a different set of terms applies to you.  You can access the latest update of all country-specific versions of our terms, including these terms, at any time by visiting http://about.king.com/consumer-terms/ and selecting the flag corresponding to the country in which you are resident.
+
+1.3 You agree that you are at least 14 years old and that if you are between 14 years old and 19 years old, your legal guardian has reviewed and agrees to these terms and is happy for you to access and/or use our Services.
+
+1.4 We can make changes to these terms at any time in accordance with paragraph 14 below and your continued use of our Services shall confirm your acceptance of the updated terms.
+
+^2. About accessing and using our Services
+
+2.1 The specific game rules, scoring rules, controls and guidelines for each Game can be found within the Game itself. Such rules, scoring rules, controls and guidelines form part of these terms and you agree that you shall comply with them in respect of each individual Game which you choose to access and/or play.
+
+2.2 You are responsible for the internet connection and/or mobile charges that you may incur for accessing and/or using our Services. You should ask your mobile operator or internet service provider if you are unsure what these charges will be, before you play.
+
+^2.3 We have the right to withdraw or modify one or more of our Services (in whole or in part) without liability to you from time to time:
+•	for technical reasons (such as technical difficulties experienced by us or on the internet);
+•	to allow us to improve user experience;
+•	where we have legal reasons for doing so (including privacy, data protection or other legal objections to the content or conduct of our Services);
+•	because it no longer makes business sense for us to provide the relevant Services (in whole or in part); or
+•	because we have altered the services we provide.
+
+^2.4 There may also be times when our Services or any part of them are not available for technical or maintenance related reasons, whether on a scheduled or unscheduled basis.
+
+^3. Accounts
+
+3.1 When using our Services you may choose to, and in some instances you will be required to, create an account with us.  If you do create an account with us, you agree that you shall take all steps necessary to protect your log in details and keep them secret.
+
+3.2 You agree that you shall not give your log in details to anyone else or allow anyone else to use your log in details or account.
+
+3.3 In these terms, references to “log in details” or “account” include your log in details and account for any social network that you may allow our Services to interact with.
+
+^3.4 We will be entitled to assume that anyone logging into your account using your log in details is either you or someone logging in with your permission. If you fail to keep your login details secret, or if you share your login details or account with someone else (whether intentionally or unintentionally), you accept full responsibility for the consequences of this (including any unauthorized purchases) and agree to fully compensate us for any losses or harm that may result.
+
+3.5 We will not be responsible to you for any loss that you suffer as a result of an unauthorised person accessing your account and/or using our Services and we accept no responsibility for any losses or harm resulting from its unauthorised use, whether fraudulently or otherwise.
+
+^3.6 We reserve the right to delete your account if no activity is conducted by you in relation to the account for 180 or more days. In such event, you will no longer be able to access and/or use any Virtual Money and/or Virtual Goods (as defined below) associated with that account and no refund will be offered to you in relation to the same.
+
+3.7 You understand that if you delete your account, or if we delete your account in accordance with these terms or on your request, you may lose access to any data previously associated with your account (including without limitation, your progress through our Games and/or the level or score you have reached in our Games and any Virtual Money or Virtual Goods associated with your account).
+
+3.8 Your account is personal to you and you are not entitled to transfer your account to any other person.
+
+^4. Virtual Goods and Virtual Money
+
+4.1 Our Games may include virtual currencies such as Gold Bars (“Virtual Money”) or items or services for use with our Games (“Virtual Goods”). You can buy Virtual Money and/or Virtual Goods from us for real money and/or other credits provided that you are the payment account holder. If you are not at least 19 years old, you hereby acknowledge and agree that you have obtained consent from your legal representative for the purchase. You agree that Virtual Money and/or Virtual Goods are not transferrable to anyone else and you will not transfer or attempt to transfer any Virtual Money and/or Virtual Goods to anyone else.
+
+^4.2 You agree that once purchased Virtual Money and Virtual Goods have no monetary value and can never be exchanged for real money, real goods or real services from us or anyone else.
+
+4.3 You do not own Virtual Goods and/or Virtual Money but instead you purchase a limited personal revocable licence to use them. Any balance of Virtual Goods and/or Virtual Money does not reflect any stored value.
+
+^4.4 If you do not connect your game play on a device to an account that is linked to either your social network account or a King account, we will not be able to restore any Virtual Money or other data associated with your Game play to a different device if you lose that device or it is damaged. Accordingly, on a device which is not connected in this way:
+•	any risk of loss of Virtual Money which you purchase from us is transferred to you upon completion of the purchase. For the purposes of this paragraph 4.4 and paragraph 4.5 below, a ”purchase” is complete at the time our servers validate your purchase and the applicable Virtual Goods and/or Virtual Money are successfully credited to your account on our servers;
+•	any risk of loss of Virtual Money that you receive from us without making a purchase is transferred to you at the time the Virtual Money is successfully credited to your account on our servers; and
+•	any risk of loss of other data associated with your Game play (including, without limitation, your progress through the Game, or the level or score you have reached in our Games) is transferred to you immediately at the time such Game play data is generated.
+
+^4.5 The data associated with Virtual Goods, whether purchased by you using Virtual Money or otherwise credited or awarded to you, is stored locally on your device and so is not synced between different devices even if you have connected your game play on a device to an account that is linked to either your social network account or King account.  Accordingly, any risk of loss of this data is transferred to you (i) in the case of Virtual Goods which you purchase from us, upon completion of the purchase as described in paragraph 4.4 above; and/or (ii) in other cases, at the time the Virtual Goods are credited or awarded to you.
+
+4.6 We reserve the right to control, regulate, change or remove any Virtual Money or Virtual Goods without any liability to you.
+
+^4.7 We may revise the pricing for Virtual Goods and Virtual Money offered through the Services at any time. We may limit the total amount of Virtual Goods or Virtual Money that may be purchased at any one time, and/or limit the total amount of Virtual Money or Virtual Goods that may be held in your account in the aggregate. You are only allowed to obtain Virtual Money and Virtual Goods from us or our authorized partners through the Games, and not in any other way.
+
+^4.8 Depending on your platform, any Virtual Goods or Virtual Money purchased is purchased from your platform provider and such purchase will be subject to its terms of service and user agreement. Usage rights for each purchase may differ from item to item. If you are unsure about usage rights you should check with your platform before making a purchase. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+4.9 Without limiting any other paragraph of these terms, if we suspend or terminate your account in accordance with paragraph 7 of these terms you may lose any Virtual Money and/or Virtual Goods that you may have and we will not compensate you for this loss or make any refund to you.
+
+^4.10 Refund Policy
+For a period of 7 days from the date of a purchase of Virtual Money or Virtual Goods using real money (a “Purchase Transaction”), you have a right to request a refund of the purchase price; provided, however, that if any or all of the Virtual Money or Virtual Goods bought in a Purchase Transaction is used within the 7 day period following the Purchase Transaction, you will no longer have a right to request a refund of purchase price for that Purchase Transaction.
+Further, if the Virtual Money or Virtual Goods bought in a Purchase Transaction are bundled with other additional Virtual Goods and some or all of those additional Virtual Goods are used, then you will no longer have the right to request a refund of the purchase price for that Purchase Transaction.
+^If at any time you receive any Virtual Money or Virtual Goods without payment by you, for instance as a prize or gift, that Virtual Money or Virtual Goods will not be refundable or otherwise capable of being exchanged for real money.
+Refunds can be requested through our customer care portal available at https://community.king.com and will be made via the payment partner through which the original purchase was made. The applicable Virtual Money and Virtual Goods which are the subject of a refund request may be removed from your account before the refund is processed.
+
+^5. User conduct and content
+
+5.1 You must comply with the laws that apply to you in the location that you access our Services from. If any laws applicable to you restrict or prohibit you from using our Services, you must comply with those legal restrictions or, if applicable, stop accessing and/or using our Services.
+
+5.2 You promise that all the information you provide to us on accessing and/or using our Services is and shall remain true, accurate and complete at all times.
+
+^5.3 Information, data, software, sound, photographs, graphics, video, tags, or other materials  may be sent, uploaded, communicated, transmitted or otherwise made available via our Services by you or another user (“Content”). You understand and agree that all Content that may be sent when using our Services, whether publicly posted or privately sent, is the sole responsibility of the person that sent the Content. This means that you, not us, are entirely responsible for all Content that you may upload, communicate, transmit or otherwise make available via our Services.
+
+^5.4 You agree not to upload, communicate, transmit or otherwise make available any Content:
+
+•	that is or could reasonably be viewed as unlawful, harmful, harassing, defamatory, libelous, obscene or otherwise objectionable;
+•	that is or could reasonably be viewed as invasive of another's privacy;
+•	that is likely to, or could reasonably be viewed as likely to incite violence or racial or ethnic hatred;
+•	which you do not have a right to make available lawfully (such as inside information, information which belongs to someone else or confidential information);
+•	which infringes any intellectual property right or other proprietary right of others;
+•	which consists of any unsolicited or unauthorised advertising, promotional materials, 'junk mail', 'spam', 'chain letters', 'pyramid schemes' or any other form of solicitation; or
+•	which contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment.
+
+^5.5 You agree that you will not:
+
+•	use our Services to harm anyone or to cause offence to or harass any person;
+•	create more than one account per platform to access our Services;
+•	use another person or entity’s email address in order to sign up to use our Services;
+•	use our Services for fraudulent or abusive purposes (including, without limitation, by using our Services to impersonate any person or entity, or otherwise misrepresent your affiliation with a person, entity or our Services);
+•	disguise, anonymise or hide your IP address or the source of any Content that you may upload;
+•	use our Services for any commercial or business purpose or for the benefit of any third party or to send unsolicited communications;
+^•	remove or amend any proprietary notices or other ownership information from our Services;
+•	interfere with or disrupt our Services or servers or networks that provide our Services;
+•	attempt to decompile, reverse engineer, disassemble or hack any of our Services, or to defeat or overcome any of our encryption technologies or security measures or data transmitted, processed or stored by us;
+•	'harvest', 'scrape' or collect any information about or regarding other people that use our Services, including, but not limited to any personal data or information (including by uploading anything that collects information including but not limited to 'pixel tags' cookies, graphics interchange formats ('gifs') or similar items that are sometimes also referred to as 'spyware' or 'pcms' (passive collection mechanisms);
+•	sell, transfer or try to sell or transfer an account with us or any part of an account, Virtual Money and/or Virtual Goods;
+^•	disrupt the normal flow of a Game or otherwise act in a manner that is likely to negatively affect other players' ability to compete fairly when playing our Games or engaging in real time exchanges;
+•	disobey any requirements or regulations of networks connected to our Services;
+•	use our Services in violation of any applicable law or regulation;
+•	use our Services to cheat or design or assist in cheating (for example, by using automated means or third party software to play), or to otherwise circumvent technological measures designed to control access to, or elements of, our Services, or to do anything else that a reasonable person is likely to believe isn't within the spirit of fair play or these terms; or
+•	use our Services in any other way not permitted by these terms.
+
+5.6 If you are concerned that someone else is not complying with any part of these terms, please contact us here: reportabuse@support.king.com.
+
+^5.7 We do not control Content posted via our Services by other people and therefore we do not guarantee the accuracy, integrity or quality of that Content. You understand that when using our Services, you may be exposed to Content that you may consider offensive, indecent or objectionable. Under no circumstances will we be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any losses or harm of any kind resulting from the use of any Content posted, emailed, transmitted or otherwise made available via our Services.
+
+5.8 We have the right to remove uploaded Content from our Services if we decide in our sole discretion that it results in or from a breach of any part of these terms, or that it may bring us or our Services into disrepute. We reserve the right to monitor any and all Content for any breaches of these terms.  However, you acknowledge that we do not necessarily actively monitor Content that is contributed by people that use our Services and we make no undertaking to do so.
+
+5.9 You are solely responsible for your interactions with other users of our Services.
+
+^6. Playing our Games with others
+
+6.1 Some of our Games allow you to play against an opponent or to play socially with others, such as by seeing their progress. You may be able to (i) choose to play against another person or play socially with another person whom King selects for you, or (ii) play against, or play socially with, one of your contacts on a platform or social network which you have allowed our Games to interact with. Some of our Games may also allow you to search for your contacts (for example, by email address) in order to find them to play against or play socially with. We may also display the display names of your past opponents so that you can easily find them to play again.
+
+^6.2 Where King selects another person for you to play with, we may either select at random or use such criteria as we see fit to select your opponent (for example, your past scores, your country, the level you have reached in the Game or your other gameplay activity).
+
+6.3 By accessing and/or playing our Games, you agree that your display name, scores, avatar, online/offline status and other related details may be displayed to other users. You also understand and agree that other users may find you by searching for you with your email address. We may also send you gifts or Virtual Goods and/or Virtual Money and/or pass on messages to you on behalf of those you are playing with. Please note that we will only show your display name publicly, and not your email address; another user must know your email address themselves in order to search for you.
+
+^7. Your breach of these terms
+
+7.1 Without limiting any other remedies or any other paragraph of these terms, if we reasonably believe that you are in material breach of these terms (including by repeated minor breaches), we reserve the right to take any of the following actions, whether individually or in combination, and either with or without notice to you:
+•	delete, suspend and/or modify your account or parts of your account;
+•	otherwise suspend and/or terminate your access to our Services;
+•	modify and/or remove any Virtual Money or Virtual Goods that may be associated with your account;
+•	reset and/or modify any game progression or benefits and privileges associated with your account, such as any level or score you have reached in our Games.
+Without limitation, any breaches of clauses 4.1, 4.7, 5.4 or 5.5 are likely to be considered material breaches.
+
+7.2 You agree to compensate us, according to law, for all losses, harm, claims and expenses that may arise from any breach of these terms by you.
+
+^8. Availability of the Services, Disclaimer and release
+
+8.1 Subject to the next sentence, we do not guarantee that any of our Services will be available or error-free at all times or at any given time. We will provide our Services in accordance with any legally required standards. In particular, in relation only to any Virtual Money and/or Virtual Goods or any other part of our Services which have been paid-for with real money, we warrant that they will substantially comply with the description provided by it at the point of purchase and be of satisfactory quality (in addition any related services provided through them will be provided with reasonable care and skill).
+
+8.2 We accept liability for death or personal injury resulting from our negligence or that of our employees or agents, and for losses or harm caused by fraud by us or our agents, or any other liability which may not by law be excluded.
+
+^8.3 We are not responsible for:
+•	losses or harm not caused by our breach of these terms or negligence; or
+•	losses or harm which are not reasonably foreseeable by you and us at the time of you agreeing to these terms and conditions including those losses which happen as a side effect of foreseeable losses. This could include loss of data, loss of opportunity, service interruption, computer or other device failure or financial loss;
+•	any damage that may be caused to any device on which you access or use any of our Games or other Services that is caused in any way by our Services unless that damage is directly caused by our failure to exercise reasonable skill and care in the provision of the applicable Games or other Services;
+•	any increase in loss or damage resulting from breach by you of any of these terms and conditions; or
+•	technical failures or the lack of availability of any of our Services where these are not within our reasonable control.
+
+^8.4 For any losses or harm (other than those mentioned in paragraph 8.2 and subject to paragraph 8.3) in any period of twelve months, we will only be responsible for losses or harm which are a reasonably foreseeable consequence of our negligence or breach of these terms and conditions up to the value of the amount that you have paid to us in the 100 day period ending on the date of your claim. Losses and harm are foreseeable only where they could be contemplated by you and us at the time of you agreeing to these terms and conditions.
+
+8.5 Subject to paragraph 8.6 below and unless otherwise specified in these Terms, we do not give any warranty, express or implied, in relation to our Services and you acknowledge that your only right with respect to any problems or dissatisfaction with any of our Services is to discontinue your use of our Services.
+
+8.6 Any additional legal rights which you may have as a consumer remain unaffected by these terms.
+
+^9. Intellectual property
+
+9.1 You acknowledge that all copyright, trade marks, and other intellectual property rights in and relating to our Services (other than Content which is contributed by players) is owned by or licensed to us.
+
+9.2 Whilst you are in compliance with these terms, we grant you a non-exclusive, non-transferable, personal, revocable limited licence to access and use our Services (but not the related object and source code) for your own personal private use, in each case provided that such use is in accordance with these terms. You agree not to use our Services, or any elements thereof, for anything else. These terms also apply to any update or patches which we may release or make available for any of the Services and any such update or patch shall be deemed part of the Services for the purposes of these terms.
+
+^9.3 You must not copy, distribute, make available to the public or create any derivative work from our Services or any part of our Services unless we have first agreed to this in writing.
+
+9.4 In particular, and without limiting the application of paragraph 9.3, you must not make available any cheats or technological measures designed to control access to, or elements of, our Services, including providing access to any Virtual Money and/or Virtual Goods, whether on a free of charge basis or otherwise.
+
+^9.5 By submitting Content (as defined in paragraph 5.3) you:
+•	are representing that you are fully entitled to do so;
+•	grant us and our group companies the right to edit, adapt, publish and use your entry and any derivative works we may create from it, in any and all media (whether it exists now or in the future), for any purpose, in perpetuity, without any payment to you;
+•	acknowledge that you may have what are known as “moral rights” in the Content, for example the right to be named as the creator of your entry and the right not to have work subjected to derogatory treatment. You agree to waive any such moral rights you may have in the Content; and
+•	agree that we have no obligation to monitor or protect your rights in any Content that you may submit to us, but you do give us the right to enforce your rights in that Content if we want to, including but not limited to taking legal action (at our cost) on your behalf.
+
+^9.6 You must not copy, distribute, make available to the public or create any derivative work from any Content belonging to any other user of our Services. If you believe that your intellectual property rights have been infringed by someone else over the internet, you may contact us by emailing the following information to ip-notice@king.com:
+•	a description of the intellectual property rights and an explanation as to how they have been infringed;
+•	a description of where the infringing material is located;
+•	your address, phone number and email address;
+•	a statement by you, made under penalty of perjury, that you (i) have a good-faith belief that the disputed use of the material in which you own intellectual property rights is not authorized, and (ii) that the information that you are providing is accurate, correct, and that you are authorised to act on behalf of the owner of an exclusive right that is allegedly infringed; and
+•	a physical or electronic signature of the person authorised to act on behalf of the owner of the exclusive right that has allegedly been infringed.
+
+^9.7 We do not consider or accept unsolicited proposals or ideas, including, for example, ideas for new games, characters, game names, mechanics, technologies, promotions, game feedback and improvements (“Unsolicited Proposals”). If, despite this, you send any Unsolicited Proposals to us, you acknowledge and agree that we are not required to keep them confidential and that we are permitted to use them for any purposes whatsoever without any liability or payment to you of any kind.
+
+^10. Privacy
+
+10.1 We are registered with the data protection authority in Malta.
+
+10.2 We will only collect, process, use and share your personal information in accordance with our Privacy Policy and as set out in these terms. By downloading and/or accessing our Services, you give your consent to us collecting, processing, using and sharing your personal data in this way. If you do not agree to our Privacy Policy you shouldn't download and/or access our Games or otherwise access and/or use our Services.
+
+^10.3 Any personal information that we may collect may also be subject to the policy of any social network that you may agree to link our Services to. If you access our Games and you allow them to interact with a social network, you are giving us permission to use your email address and other information which that social network shares with us that will allow us to personally identify you. You are also granting us permission to help your contacts on that social network find you so you can play socially. This is intended to make our Games more enjoyable for you and others that play our Games on the social network.  If you do not agree to these practices you should not allow our Games to interact with your social network.
+
+^11. Links
+
+11.1 We may link to third party websites or services from our Services. You understand that we make no promises regarding any content, goods or services provided by such third parties and we do not endorse the same. We are also not responsible to you in relation to any losses or harm caused by such third parties. Any charges you incur in relation to those third parties are your responsibility. You understand that when you provide data to such third parties you are providing it in accordance with their privacy policy (if any) and our own privacy policy does not apply in relation to that data.
+
+^12. Transferring these terms
+
+12.1 We may wish to transfer all or a part of our rights or responsibilities under these terms to someone else without obtaining your consent. You agree that we may do so provided that the transfer does not significantly disadvantage you. You may not transfer any of the rights we give you under these terms unless we first agree to this in writing.
+
+^13. Entire agreement
+
+13.1 These terms set out the entire agreement between you and us concerning our Services (as defined in paragraph 1) and they replace all earlier agreements and understandings between you and us.
+
+^14. Changes to these terms
+
+14.1 You can find these terms at any time by visiting http://about.king.com/consumer-terms/  and selecting the Korean country version. We reserve the right to update these terms from time to time by posting the updated version at that address. We may do so because we change the nature of our products or services, for technical or legal reasons, or because the needs of our business have changed. You will be deemed to have agreed to any modified version of these terms if you do not expressly refuse the modified version within a 30-day period. You agree that if you do not accept any amendment to our terms then you shall immediately stop accessing and/or using our Services.
+
+^15. Severability
+
+15.1 If any part of these terms is held to be invalid or unenforceable under any applicable local laws or by an applicable court, that part shall be interpreted in a manner consistent with applicable law to reflect as nearly as possible our original intentions and the remainder of these terms shall remain valid and enforceable.
+
+^16. Waivers of our rights
+
+16.1 Our failure to exercise or enforce any of our rights under these terms does not waive our right to enforce such right. Any waiver of such rights shall only be effective if it is in writing and signed by us.
+
+^17. Complaints and dispute resolution
+
+17.1 Most concerns can be solved quickly by contacting us at queries@support.king.com.
+
+17.2 You are contracting with King.com Limited whose address is Aragon Business Centre Level 4, Dragonara Road, St Julian’s STJ3140, Malta and the laws of England shall govern the interpretation of these terms and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and claims in negligence and tort, will be subject to the laws of the country in which you are resident. If there is a dispute between us regarding these Terms of Use, then that dispute will be subject to the jurisdiction of the courts of England unless the law in your country of residence allows you to choose the courts of that country for the dispute in question.
+
+^18. Questions about these terms
+
+18.1 If you have any questions about these terms or our Services you may contact us by queries@support.king.com.
+
+18.2 These terms were last updated on April 3, 2017."
+"Tut_5_zoom_in_body","用兩根手指按著螢幕，然後向外移動。"
+"Tut_5_zoom_in_title","放大！"
+"Tut_5_zoom_title","秘訣："
+"You","你"
+"add_friends","邀請好友！"
+"all_friends","所有好友"
+"announcement_cross_blast_hammer_presentation","這是你的第二個珠寶工具！"
+"announcement_title_cross_blast_hammer_booster","厲害的珠寶高手就需要厲害的工具"
+"announcement_upgraded_hammer_presentation","你的錘子魔法道具已升級，現在它的威力變得更強囉！"
+"app_friends","《寶鑽傳奇》的好友"
+"bank_more_offers","更多優惠"
+"beginners_bundle.store.package_name","新手組合包"
+"bernadetta_body","我果然沒看錯你！"
+"bernadetta_good_job","做得好！"
+"bernadetta_level1_intro","你總算到巴黎了！快讓鑽石連上項鍊就能製成珠寶！"
+"bernadetta_level1_outro","太棒了！繼續收集鑽石，很快就能修復這些珠寶了！"
+"bernadetta_master_presentation","太棒了！福羅利恩大師正在 16 關等你。"
+"bernadetta_name","貝娜迪塔"
+"bernadetta_rank_text","真漂亮！"
+"bonus_score","獎勵：{0}"
+"booster_unlimited","你可以在本關卡中無限使用木槌！"
+"bundle_1_name","新手包"
+"bundle_2_name","波娜黛塔包"
+"bundle_3_name","查理包"
+"bundle_4_name","珍珠包"
+"bundle_5_name","紫水晶包"
+"bundle_6_name","鑽石包"
+"button_accept_all","全部接受"
+"button_amazing","Amazing"
+"button_claim","領取"
+"button_claim_reward","領取獎勵"
+"button_community","社群"
+"button_confirm","確認"
+"button_continue","繼續"
+"button_crack_open","打開"
+"button_do_it","我們開始吧！"
+"button_end_episode","開始！"
+"button_facebook","Facebook"
+"button_great","真棒"
+"button_how","How"
+"button_lets_go","Let's go"
+"button_lets_start","開始吧"
+"button_menu","設定"
+"button_menu_main","主選單"
+"button_next","下一關"
+"button_no","否"
+"button_ok","確定"
+"button_okay","好！"
+"button_play","玩遊戲"
+"button_playon","繼續玩"
+"button_quit","退出"
+"button_refill","補充生命值"
+"button_replay","再試一次"
+"button_send","傳送"
+"button_smash","敲碎！"
+"button_tap_to_continue","Tap to continue"
+"button_yes","是"
+"c2cTableData","<tr>
+    <td>Midasplayer AB</td>
+    <td>Providing our game to our players, including customer contact, account management, marketing, advertising, provision of surveys, analytics, prevention of fraud and other purposes as required in accordance with the privacy policy, laws and regulations.</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Midasplayer.com Limited</td>
+    <td>Providing our game to our players, including customer contact, account management, marketing, advertising, provision of surveys, analytics, prevention of fraud and other purposes as required in accordance with the privacy policy, laws and regulations.</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Activision Blizzard Media LLC</td>
+    <td>In-game advertising</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Activision Blizzard Media Limited</td>
+    <td>In-game advertising</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>King Shared Services S.L. Spain</td>
+    <td>Providing our game to our players, including customer contact, account management, marketing, advertising, provision of surveys, analytics, prevention of fraud and other purposes as required in accordance with the privacy policy, laws and regulations.</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Midasplayer Vertriebs GmbH Germany</td>
+    <td>Providing our game to our players, including customer contact, account management, marketing, advertising, provision of surveys, analytics, prevention of fraud and other purposes as required in accordance with the privacy policy, laws and regulations.</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Activision Publishing, Inc.</td>
+    <td>Group marketing</td>
+    <td>Email address</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Blizzard Entertainment, Inc.</td>
+    <td>Group marketing</td>
+    <td>Email address</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Blizzard Entertainment International, a division of Activision Blizzard International B.V.</td>
+    <td>Group marketing</td>
+    <td>Email address</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>The Call of Duty League, LLC</td>
+    <td>Group marketing</td>
+    <td>Email address</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>The Overwatch League, LLC</td>
+    <td>Group marketing</td>
+    <td>Email address</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Major League Gaming Corp.</td>
+    <td>Group marketing</td>
+    <td>Email address</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Xandr Inc</td>
+    <td>In-game advertising</td>
+    <td>IDFA, ADID, carrier, Operating System, language, country/non-specific location data</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Unity Technologies SF</td>
+    <td>In-game advertising</td>
+    <td>IDFA, ADID, carrier, Operating System, language, country/non-specific location data</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Magnite Inc, formerly known as the Rubicon Project Inc</td>
+    <td>In-game advertising</td>
+    <td>IDFA, ADID, carrier, Operating System, language, country/non-specific location data</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Facebook Inc.</td>
+    <td>In-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>"
+"c2cTableHeadings","<tr>
+    <th>Recipient</th>
+    <th>Recipient's purposes of using personal information</th>
+    <th>Items of personal information provided</th>
+    <th>Period of retention and use by the recipient</th>
+</tr>"
+"c2cTitle","Third party transfer of user's personal information"
+"champagne_collection_counters","{0}"
+"champagne_collection_counters_left","還剩 {0} 瓶香水"
+"champagne_prelevel_goals","打開香水瓶！"
+"cheering_almost_there","就差一點！"
+"cheering_keep_linking","繼續串連吧！"
+"cheering_more_to_go","剩餘目標：{0}"
+"cheering_one_left","就剩一個！"
+"city_choose_destination","選擇目的地："
+"city_episode_boost_birds_desc","每關開始時獲得 2 隻魔術小鳥"
+"city_episode_boost_blast_desc","每關開始時獲得 1 個爆破光暈"
+"city_episode_boost_city_feedback","{0} 個魔法道具"
+"city_episode_boost_faster_lives_desc","生命值恢復速度加倍"
+"city_episode_boost_hammer_desc","更強大的木槌"
+"city_episode_boost_intro","接下來想去哪？每一座城市的每個關卡都有不同的魔法道具！"
+"city_name_amsterdam","阿姆斯特丹"
+"city_name_antalya","安塔利亞"
+"city_name_athens","雅典"
+"city_name_auckland","歐克蘭"
+"city_name_bangkok","曼谷"
+"city_name_barcelona","巴塞隆納"
+"city_name_beijing","北京"
+"city_name_berlin","柏林"
+"city_name_bhutan","不丹"
+"city_name_bruges","布呂赫"
+"city_name_buenos_aires","布宜諾斯艾利斯"
+"city_name_cairo","開羅"
+"city_name_cambodia","柬埔寨"
+"city_name_cinque_terre","五漁村"
+"city_name_copenhagen","哥本哈根"
+"city_name_cusco","庫斯科"
+"city_name_dubrovnik","杜布羅夫尼克"
+"city_name_edinburg","愛丁堡"
+"city_name_florence","佛羅倫斯"
+"city_name_granada","格拉那達"
+"city_name_hanoi","河內"
+"city_name_havana","哈瓦那"
+"city_name_hong_kong","香港"
+"city_name_istanbul","伊斯坦堡"
+"city_name_jodhpur","久德浦爾"
+"city_name_kathmandu","加德滿都"
+"city_name_kuala_lumpur","吉隆坡"
+"city_name_kyoto","京都"
+"city_name_lisbon","里斯本"
+"city_name_london","倫敦"
+"city_name_marrakesh","馬拉凱許"
+"city_name_merida","梅里達"
+"city_name_monaco","摩納哥"
+"city_name_moscow","莫斯科"
+"city_name_nara","奈良"
+"city_name_neworleans","紐奧良"
+"city_name_newyork","紐約"
+"city_name_newyork_short","紐約"
+"city_name_paris","巴黎"
+"city_name_paris_short","巴黎"
+"city_name_phoenix","鳳凰城"
+"city_name_prague","布拉格"
+"city_name_reykjavik","雷克雅維克"
+"city_name_rio","里約熱內盧"
+"city_name_rome","羅馬"
+"city_name_salzburg","薩爾斯堡"
+"city_name_san_juan","聖胡安"
+"city_name_sanfrancisco","舊金山"
+"city_name_sankt_petersburg","聖彼得堡"
+"city_name_santa_monica","聖塔莫尼卡"
+"city_name_santorini","聖托里尼"
+"city_name_seoul","首爾"
+"city_name_shanghai","上海"
+"city_name_stockholm","斯德哥爾摩"
+"city_name_strasbourg","史特拉斯堡"
+"city_name_tokyo","東京"
+"city_name_varanasi","瓦拉納西"
+"city_name_venice","威尼斯"
+"city_race_announcement_1","這些玩家也和你從同一座城市開始冒險。
+
+你能比他們更快過關嗎？"
+"city_race_announcement_2","用速度一較高下，並獲得獎勵！"
+"city_race_announcement_title","城市挑戰"
+"city_race_endlevel_keeptrying","只有前三名能獲得獎勵。繼續加油！"
+"city_race_endlevel_yourposition","名次"
+"city_race_endlevel_yourreward","獎勵！"
+"city_race_position","第 {0} 名"
+"collect_collab_announcement_description","和其他玩家交換鑰匙，打開交易者寶箱"
+"collect_collab_announcement_key","這是你的鑰匙"
+"collect_collab_connection_issue_exchange","這位玩家已和其他人交換鑰匙"
+"collect_collab_connection_issue_generic","發生連線問題，
+稍後再試！"
+"collect_collab_exchanging_header","交換中"
+"collect_collab_failure_description","你未能及時打開交易者寶箱，祝你下次好運！"
+"collect_collab_group_header","可交換的對象"
+"collect_collab_group_header_descriptive","鑄造你的鑰匙並和其他人交換"
+"collect_collab_player_collect_description","收集彩珠"
+"collect_collab_player_exchange_button","交換"
+"collect_collab_player_forge_button","鑄造"
+"collect_collab_player_ready_to_exchange_description","已可交換"
+"collect_collab_push_notification_exchanged_with_player","有一位玩家和你交換了一把鑰匙！快來看看！"
+"collect_collab_push_notification_other_forged","有一位玩家剛造出你需要的鑰匙！快來看看！"
+"collect_collab_status_already_have_blue_key","已擁有藍色鑰匙"
+"collect_collab_status_already_have_green_key","已擁有綠色鑰匙"
+"collect_collab_status_already_have_purple_key","已擁有紫色鑰匙"
+"collect_collab_status_already_have_red_key","已擁有紅色鑰匙"
+"collect_collab_status_already_have_yellow_key","已擁有黃色鑰匙"
+"collect_collab_status_chest_opened","已經打開過寶箱"
+"collect_collab_status_collecting","收集中"
+"collect_collab_status_forging","鑄造中"
+"collect_collab_status_key_not_needed","你不需要這把鑰匙"
+"collect_collab_status_ready_to_exchange","已可交換"
+"collect_collab_victory_description","你打開了交易者寶箱。請享用裡面的優質獎勵！"
+"collect_collab_widget_mesage_ready_to_exchange","有一位玩家剛造出你需要的鑰匙！"
+"collect_collab_widget_message_forge","你現在可以鑄造鑰匙了！"
+"coloring_album_button","相簿"
+"coloring_album_frame","相簿"
+"coloring_color_button","顏色"
+"coloring_color_frame","著色"
+"coloring_found","已發現："
+"coloring_get_stars","著色就能獲得 3 顆星星！"
+"coloring_map_button","地圖"
+"coloring_new_postcard","新"
+"coloring_postcard_loading","載入中"
+"coloring_share_back_button","返回"
+"coloring_share_button","分享"
+"coloring_share_frame","分享"
+"coloring_undo_button","還原"
+"connection_required_notification","本挑戰需要連上網際網路！"
+"contactus_title","幫助中心"
+"diamond_mission_completed","太美了，露西！"
+"diamond_mission_intro","收集鑽石來修復珠寶！"
+"diamond_missions_generic_a_intro_text_1","我發現另一件古董珠寶的設計圖！"
+"diamond_missions_generic_a_intro_text_2","收集 200 顆鑽石即可打造！"
+"diamond_missions_generic_a_outro_text_1","太厲害了！成品比我想像中的更美！"
+"diamond_missions_generic_b_intro_text_1","這件新的珠寶等你來完成！"
+"diamond_missions_generic_b_intro_text_2","收集 400 顆鑽石即可製作它！"
+"diamond_missions_generic_b_outro_text_1","頂呱呱！我們的收藏中又多了一件美麗的作品！"
+"diamond_missions_generic_c_intro_text_1","接下來的挑戰就是完成這張古董珠寶設計圖！"
+"diamond_missions_generic_c_intro_text_2","收集 600 顆鑽石來製作！"
+"diamond_missions_generic_c_outro_text_1","這件珠寶真是美輪美奐！"
+"diamond_missions_mission_1_intro_text_1","這古老的設計中蘊含著某種神祕之謎…"
+"diamond_missions_mission_1_intro_text_2","收集 50 顆鑽石即可打造它！"
+"diamond_missions_mission_1_outro_text_1","太驚人了！這是十八世紀晚期的耳環…"
+"diamond_missions_mission_2_intro_text_1","這古老設計圖上畫了一條獨特的項鍊…"
+"diamond_missions_mission_2_intro_text_2","收集 250 顆鑽石即可打造！"
+"diamond_missions_mission_2_outro_text_1","真是太不可思議了！這也是件十八世紀的珠寶，而且你順利修復它了！"
+"diamond_missions_mission_3_intro_text_1","我找到了這個古老胸針的設計圖。"
+"diamond_missions_mission_3_intro_text_2","收集 400 顆鑽石即可製作它！"
+"diamond_missions_mission_3_outro_text_1","做得好！這枚胸針是兩百多年前在威尼斯設計的。"
+"diamond_missions_mission_4_intro_text_1","我幫你找到一張新的設計圖！"
+"diamond_missions_mission_4_intro_text_2","收集 600 顆鑽石來製作！"
+"diamond_missions_mission_4_outro_text_1","太好了！又一件古老的威尼斯作品。"
+"diamond_missions_mission_5_intro_text_1","這是下一個珠寶設計挑戰！"
+"diamond_missions_mission_5_intro_text_2","收集 600 顆鑽石來製作！"
+"diamond_missions_mission_5_outro_text_1","真是美妙的設計！"
+"diamond_missions_mission_6_intro_text_1","我幫你找到了新的設計圖！"
+"diamond_missions_mission_6_intro_text_2","收集 300 顆鑽石來製作！"
+"diamond_missions_mission_6_outro_text_1","很棒！你離珠寶製作專家更近一步了！"
+"diamond_missions_mission_7_intro_text_1","這是下一個珠寶設計挑戰！"
+"diamond_missions_mission_7_intro_text_2","收集 600 顆鑽石來製作！"
+"diamond_missions_mission_7_outro_text_1","太棒了！這是另一款 18 世紀的獨特樣式。"
+"diamond_missions_mission_8_intro_text_1","我幫你找到一張超酷的新設計圖！"
+"diamond_missions_mission_8_intro_text_2","收集 300 顆鑽石來製作！"
+"diamond_missions_mission_8_outro_text_1","優秀！這些珠寶配件看來是某種蒐藏的一部分..."
+"dungeon_sagamap_event_chest","你在路上發現了一份禮物。裡面有什麼呢？"
+"dungeon_sagamap_event_lives","這份小禮物應該能助你冒險！繼續加油！"
+"dungeon_sagamap_event_pick_ab_description","挑一個喜歡的帶走"
+"dungeon_sagamap_event_pick_ab_header","來選一下吧！"
+"egp_moves","步數"
+"end_episode_reward","10 根金條"
+"end_episode_screen_boosts_1_text_1","身在紐約期間，生命值恢復的速度將會提升！"
+"end_episode_screen_boosts_2_text_1","你現在可以選擇下一趟旅程！各城市都會有不同的好處…"
+"end_episode_screen_diamonds_10_text_1","彩虹收藏在 1803 年消失。"
+"end_episode_screen_diamonds_11_text_1","傳說中提及，露西亞‧狄‧菲奧雷設計所有的珠寶，並把它們藏起來，避免落入拿破崙大軍的手中。"
+"end_episode_screen_diamonds_12_text_1","你所修復的一件珠寶源於十六世紀…背後有什麼淵源呢？"
+"end_episode_screen_diamonds_13_text_1","你修復的不單是一組收藏…有幾件珠寶比我想像的更有年代！"
+"end_episode_screen_diamonds_14_text_1","顯然有許多神祕的設計圖四散於世界各地。這背後究竟有何起因？"
+"end_episode_screen_diamonds_1_text_1","讓我們一遊紐約珠寶博物館吧…"
+"end_episode_screen_diamonds_1_text_2","我們可以在那裡找到更多資訊。"
+"end_episode_screen_diamonds_2_text_1","你可以選擇下一個調查地點！"
+"end_episode_screen_diamonds_3_text_1","拿破崙在 1797 年征服了威尼斯，而且掠奪了許多財寶…"
+"end_episode_screen_diamonds_3_text_2","…我懷疑我們的珠寶是否也和過往的事件有所關聯。"
+"end_episode_screen_diamonds_4_text_1","我發現了一個驚人的線索！這件傳奇收藏並沒有失傳！"
+"end_episode_screen_diamonds_4_text_2","…它是被藏了起來！但為什麼呢？"
+"end_episode_screen_diamonds_5_text_1","這件傳奇收藏被隱藏在世界的某個角落…"
+"end_episode_screen_diamonds_5_text_2","…為的就是不讓拿破崙的軍隊拿到手！"
+"end_episode_screen_diamonds_6_text_1","顯然有許多神祕的設計圖四散於世界各地！"
+"end_episode_screen_diamonds_6_text_2","接下來你想往哪走？"
+"end_episode_screen_diamonds_7_text_1","隱藏起來的收藏數量龐大，四散於世界各地。"
+"end_episode_screen_diamonds_7_text_2","接下來你的目的地是哪裡？"
+"end_episode_screen_diamonds_8_text_1","我們可在世界上的任何城市找到關於收藏的資訊。"
+"end_episode_screen_diamonds_8_text_2","接下來你想探訪那個城市呢？"
+"end_episode_screen_diamonds_9_text_1","我剛好發現關於你正在修復的珠寶的情報…"
+"end_episode_screen_diamonds_9_text_2","…它們是名為「彩虹收藏」的古董組合的一部分。"
+"end_episode_screen_episode_boost_text_1","你的下一站是倫敦。另外，在這裡能夠更快恢復生命值！"
+"end_episode_screen_ticket_to_ride_text_1","你現在可以選擇下一趟旅程！"
+"end_episode_screen_travelling_text_1","你已取得所有巴黎的鑽石，接下來就到紐約去繼續努力吧！"
+"eoc_meantime","同一時間…"
+"episode_race_keep_trying","只有前三名能獲得獎勵。繼續加油！"
+"episode_race_opt_in_next_time","下次吧"
+"error_continue","繼續"
+"error_network","連線失敗！"
+"error_network_body","別擔心！稍後再試一次，我們會在這裡等你！ "
+"error_ooops","糟糕了～"
+"error_try_again","請稍後再試！"
+"error_try_later","請稍後再試一次。"
+"error_unrecoverable_error_body","我們無法完成你的請求…請與我們聯絡，我們會為你提供協助！"
+"error_unrecoverable_error_button","取得協助 "
+"error_unrecoverable_error_title","抱歉"
+"error_wrong","發生錯誤了"
+"exp_freepiggy_break","打破！"
+"exp_freepiggy_shake","搖一搖"
+"exp_sleeptight_bonus","每休息一天就能獲得 1 份額外步數！"
+"exp_sleeptight_days_away","你已休息了"
+"exp_sleeptight_days_away_amount"," {0} 天"
+"exp_sleeptight_days_away_maxed","你已休息超過"
+"exp_sleeptight_notification_1","每休息一天就能獲得 1 份額外步數！🎁 你已經 3 天沒玩了…"
+"exp_sleeptight_notification_2","你的休息獎勵每天都會變得更優！🎁 你已經 6 天沒玩了…"
+"exp_sleeptight_notification_3","你的休息獎勵現已變得好棒！🎁 你已經 9 天沒玩了…"
+"exp_sleeptight_round_start","休息獎勵！"
+"exp_sleeptight_welcome","歡迎回來！"
+"exp_soclose_episode_finished","已完成！"
+"exp_soclose_progression","還剩 {0} 關！"
+"exp_soclose_progression_one_left","最後一關！"
+"exp_soclose_progression_widget_plural","剩下 {0} 關"
+"exp_soclose_progression_widget_singular","剩下 {0} 關"
+"exp_soclose_welcome","歡迎來到"
+"exp_tr_goblin.popup_chest_found","你獲得了一個神祕箱！"
+"exp_tr_goblin.popup_chest_open","你獲得鑰匙了！可以打開箱子了！"
+"exp_tr_goblin.popup_key_expired","糟糕，鑰匙飛走了！"
+"exp_tr_goblin.popup_key_need","快找到鑰匙！"
+"exp_tr_goblin.popup_key_new","張大眼睛！另一把鑰匙就要出現了！"
+"exp_tr_goblin.popup_key_reminder","在鑰匙飛走前找到它！"
+"exp_tr_goblin.reward_exceptional","優等！"
+"exp_tr_goblin.reward_rare","稀有！"
+"extra_extra_large_bundle.store.package_name","超級大組合包"
+"extra_extra_large_gold_package.store.package_name","超級大型金條包"
+"extra_large_bundle.store.package_name","超大組合包"
+"extra_large_gold_package.store.package_name","超大型金條包"
+"extra_small_gold_package.store.package_name","超小型金條包"
+"fb_connect","連線"
+"fb_connecting","連線中…"
+"fb_connectionlong","無法連線"
+"fb_help_button_text","?"
+"fb_logout","登出"
+"fb_nointernetconec","尚未連上網路"
+"fb_save_progress","儲存遊戲進度！"
+"fb_success","你已與 Facebook 連線！"
+"fb_will_not_publish","我們不會在未經你允許的情況下發文！"
+"feeder_collection_counters","{0}"
+"feeder_collection_counters_left","還有 {0} 個珠寶盒"
+"feeder_prelevel_goals","打開珠寶盒！"
+"first_level_up","每一顆星星都能讓你的珠寶能力更加精進！"
+"florian_conclusion_1","真厲害！去見見其他地方的珠寶大師。"
+"florian_conclusion_2","別忘了寫信給我！"
+"florian_conclusion_3","讓全世界看看你的能力。"
+"florian_development_1","真是驚人，我看得出來你很有天分。"
+"florian_development_2","我會想念你的！"
+"florian_development_3","厲害！繼續保持。"
+"florian_introduction_1","讓我們試試新的槌子吧！"
+"florian_introduction_2","不錯嘛，你到了！"
+"florian_introduction_3","你學得很快，非常好！"
+"fusion_1_Level_away","再 {0} 關"
+"fusion_Info_tittle","資訊"
+"fusion_X_Levels_away","再 {0} 關"
+"fusion_abandon_tittle","放棄"
+"fusion_bonus_nearby","最近的紅利！"
+"fusion_booster_buddies_tittle","魔法道具夥伴！"
+"fusion_button_got_it","知道了！"
+"fusion_button_lets_go","出發囉！"
+"fusion_favourite_buddies","最愛夥伴"
+"fusion_info_button_1","最鄰近關卡的夥伴會給你最棒的魔法道具"
+"fusion_info_button_2","最愛夥伴能讓魔法道具倍增"
+"fusion_info_button_3","你附近的最愛夥伴可獲得最好的加分！"
+"fusion_list_full","你的名單已滿！"
+"fusion_no_button","先不要"
+"fusion_onboarding","把玩家加進你的最愛夥伴名單，讓魔法道具倍增！"
+"fusion_opt_out","你不會再收到夥伴的魔法道具。確定嗎？"
+"fusion_remove_button","移除"
+"fusion_remove_faraway","這位夥伴已不在你的最愛名單中"
+"fusion_remove_fav_title","從最愛名單中移除嗎？"
+"fusion_remove_nearby","你能從鄰近玩家獲得最棒的魔法道具。確定嗎？"
+"fusion_tap_to_continue","點一下繼續"
+"fusion_yes_button","確定"
+"game_cities_coming_soon","更多城市即將登場！"
+"game_coming_soon","即將推出…"
+"game_completed","成功！"
+"game_full","全滿"
+"game_intro_body","我發現了相當神秘的東西…馬上來巴黎看看！"
+"game_intro_body_2","我需要你的幫助來修復某件珠寶收藏。請立刻動身來巴黎！"
+"game_intro_header","親愛的，"
+"game_intro_header_2","親愛的露西，"
+"game_intro_presentation","每一件珠寶都有自己的故事…"
+"game_intro_presentation_2","如果要製作珠寶，你需要鑽石…"
+"game_intro_sign","你的阿姨，波娜黛塔"
+"game_intro_sign_2","你的阿姨，波娜黛塔"
+"game_level","闖關"
+"game_level_completed","做得好！"
+"game_level_failed","步數用完了！"
+"game_level_number","第 {0} 關"
+"game_level_win","你贏了！"
+"game_loading","載入中…"
+"game_lose_life","你確定要退出嗎？"
+"game_name","寶鑽傳奇"
+"game_no_possible_moves","沒有可連成一串的彩珠"
+"game_paused","暫停"
+"game_quit_level","是否退出關卡？"
+"game_quitgame_desc","確定要退出此關卡？"
+"game_quitgame_title","是否退出？"
+"game_reshuffle","重新混珠中…"
+"game_score_short","{0} 分"
+"game_your_score","你的分數"
+"generic_timer_h_m","{0}h {1}m"
+"generic_timer_h_m_s","{0}h {1}m {2}s"
+"generic_timer_hours_minutes","{0} hours {1} minutes"
+"generic_timer_hours_minutes_seconds","{0} hours {1} minutes {2} seconds"
+"generic_timer_hr","{0}hr"
+"generic_timer_m_s","{0}m {1}s"
+"generic_timer_min","{0}min"
+"generic_timer_minutes_seconds","{0} minutes {1} seconds"
+"generic_timer_only_h","{h}"
+"generic_timer_only_hours","{0} hours"
+"generic_timer_only_m","{0}m"
+"generic_timer_only_minutes","{0} minutes"
+"generic_timer_only_s","{0}s"
+"generic_timer_only_seconds","{0} seconds"
+"generic_timer_sec","{0}sec"
+"gift_failed_cant_recover","你的請求似乎出了問題…"
+"gift_failed_cant_recover_title","抱歉！"
+"gift_failed_try_again","你的贈品已就緒，但是出了一點問題。請再試一次。"
+"gift_failed_try_again_title","領取失敗"
+"gift_map_button","獎勵！"
+"gift_received","恭喜！"
+"gift_received_button","太棒了！"
+"gift_received_desc","你已收到："
+"gift_received_goldbars","10 根金條"
+"gift_received_goldbars_param","{0} 根金條"
+"gift_received_title","恭喜！"
+"gravity_fb.description","開始遊玩《寶鑽傳奇》，這是一款由《糖果傳奇》的製作團隊 King 所帶來的全新串連益智解謎遊戲。
+ 
+連接 3 個或以上相同顏色的彩珠來打造珍貴的珠寶物品，在移動次數用盡前完成目標吧！
+前往充滿異國情調的城市享受滿滿樂趣、挑戰性十足的關卡及刺激的嶄新遊戲模式。
+ 
+在這次令人興奮的益智冒險中享受閃亮的新玩法，將美麗的彩珠連接起來吧！
+獨自一人挑戰史詩般的傳奇或與好友同樂，看誰能獲得最高分！
+ 
+《寶鑽傳奇》可免費下載遊玩，但部分遊戲內物品仍需使用現金內購。"
+"gravity_fb.shortdescription","在這款 King 新推出的串連益智遊戲中打造珠寶、環遊世界！"
+"gravity_fb.tagline","金光閃閃的益智冒險！"
+"hard_refill_case_1_super_hard_description","補滿"
+"hard_refill_hard_header","困難關卡完成！"
+"hard_refill_super_hard_header","超級困難關卡完成！"
+"header_congratulations","恭喜！"
+"header_time_is_up","時間到！"
+"how_friends_do","看看好友們的動態！"
+"hud_goals","目標"
+"hud_level","第 {0} 關"
+"hud_moves","步數"
+"hud_score","分數：{0}"
+"hybrid_collection_counters","{0}"
+"hybrid_collection_counters_left","剩下 {0} 顆鑽石"
+"hybrid_prelevel_goals","收集所有鑽石！"
+"hydra_collection_counters","{0}"
+"hydra_collection_counters_left","還有 {0} 個娃娃"
+"hydra_prelevel_goals","打開寶盒娃娃！"
+"incen_connectfacebook","與 Facebook 連線！"
+"incen_connectfacebook_devices","在多台裝置上遊玩！"
+"incen_connectfacebook_gold","初次連線可獲得 {0} 根金條！"
+"incen_connectfacebook_help","請好友幫忙解開新關卡！"
+"incen_connectfacebook_lives","好友可以送你生命值！"
+"incen_connectfacebook_progression","不會失去遊戲進度！"
+"incen_connectfacebook_spam","我們不會在未經你允許的情況下發文。"
+"increasing_rewards_presentation_description","繼續在挑戰中得勝就能獲得最終獎勵"
+"invite_friends","邀請"
+"ko_refund_policy","refund available within 7 days (with limitations)"
+"kv_profile","個人檔案"
+"large_bundle.store.package_name","大組合包"
+"large_gold_package.store.package_name","大型金條包"
+"last_move_reminder","最後 1 步！"
+"level_failed","闖關失敗！"
+"level_hard_title","困難關卡"
+"level_superhard_title","超困難關卡"
+"level_up_button","太棒了！"
+"level_up_reward_2","明信片已增至相簿中！"
+"level_up_title","升級！"
+"lexicon_tier1_01","Brilliant!"
+"lexicon_tier1_02","Good Job!"
+"lexicon_tier1_03","Sassy!"
+"lexicon_tier1_04","Wonderful!"
+"lexicon_tier2_01","Amazing!"
+"lexicon_tier2_02","Dazzling!"
+"lexicon_tier2_03","Radiant!"
+"lexicon_tier3_01","Charming!"
+"lexicon_tier3_02","Masterful!"
+"lexicon_tier3_03","Perfect!"
+"library.social_playerrelations_kingandfacebookprofiles","King 和 Facebook 個人資料"
+"library_buttons_PP","隱私權條款"
+"library_buttons_accept","接受"
+"library_buttons_acceptall","全部接收"
+"library_buttons_account","帳號"
+"library_buttons_achievements","成就"
+"library_buttons_add","增加"
+"library_buttons_addmessage","新增訊息"
+"library_buttons_all","全部"
+"library_buttons_allfriends","所有好友"
+"library_buttons_ask","要求"
+"library_buttons_avatar","頭像"
+"library_buttons_back","返回"
+"library_buttons_back2game","返回遊戲"
+"library_buttons_back2map","返回地圖"
+"library_buttons_back2menu","返回選單"
+"library_buttons_cancel","取消"
+"library_buttons_checkall","全部勾選"
+"library_buttons_claim","領取"
+"library_buttons_close","關閉"
+"library_buttons_close_capital","關閉"
+"library_buttons_collect_prize","領取獎品！"
+"library_buttons_connect","連接"
+"library_buttons_continue","繼續"
+"library_buttons_cool_exclamation","真棒！"
+"library_buttons_customer_care","客戶服務"
+"library_buttons_done","完成"
+"library_buttons_download_01","下載"
+"library_buttons_download_02","下載！"
+"library_buttons_end_game","結束遊戲"
+"library_buttons_exit","退出"
+"library_buttons_exit_full_screen","退出全視窗"
+"library_buttons_extra_moves","額外步數"
+"library_buttons_faq","常見問題"
+"library_buttons_faq_abbr","常見問題"
+"library_buttons_fb_disconnect","中斷連線"
+"library_buttons_find_friends","尋找好友"
+"library_buttons_full_screen","全視窗"
+"library_buttons_game_invites","遊戲邀請"
+"library_buttons_get_friends","尋找好友"
+"library_buttons_get_more_goldbars","獲得更多金條"
+"library_buttons_go","前往"
+"library_buttons_great_exclamation","Great!"
+"library_buttons_help","說明"
+"library_buttons_helpful_hints","實用祕訣"
+"library_buttons_inbox","收件匣"
+"library_buttons_invite","邀請"
+"library_buttons_invite_friends","邀請朋友"
+"library_buttons_kingdom","Kingdom"
+"library_buttons_later","稍後"
+"library_buttons_like","讚"
+"library_buttons_login","登入"
+"library_buttons_logout","登出"
+"library_buttons_main_menu","主選單"
+"library_buttons_messages","訊息"
+"library_buttons_more","更多"
+"library_buttons_music_off","關閉音樂"
+"library_buttons_music_on","開啟音樂"
+"library_buttons_never","不，謝謝"
+"library_buttons_new_version_avail","有更新版本"
+"library_buttons_next","繼續"
+"library_buttons_not_now","現在不要"
+"library_buttons_notifications","通知"
+"library_buttons_ok","確定"
+"library_buttons_options","選項"
+"library_buttons_play","開始遊戲"
+"library_buttons_play_caps","開始玩"
+"library_buttons_play_exclamation","馬上玩！"
+"library_buttons_play_now","馬上玩！"
+"library_buttons_previous","上一頁"
+"library_buttons_profile","個人檔案"
+"library_buttons_quit","退出"
+"library_buttons_quit_game","退出遊戲"
+"library_buttons_quit_level","退出關卡"
+"library_buttons_rate","評分"
+"library_buttons_reload","重新載入"
+"library_buttons_reset","重設"
+"library_buttons_reset_progress","重設進度"
+"library_buttons_restore_purchases","還原購買"
+"library_buttons_retry","重試"
+"library_buttons_save_game","儲存進度"
+"library_buttons_select_all","選擇全部"
+"library_buttons_send","寄送"
+"library_buttons_send2all","寄送給所有人"
+"library_buttons_send_all","全部送出"
+"library_buttons_send_caps","傳送"
+"library_buttons_send_lives","寄送生命"
+"library_buttons_settings","設定"
+"library_buttons_share","分享"
+"library_buttons_sign_out","登出"
+"library_buttons_skip","略過"
+"library_buttons_start","開始"
+"library_buttons_support","支援"
+"library_buttons_tap2continue","按一下繼續"
+"library_buttons_tell_them","告訴他們"
+"library_buttons_tos","服務條款"
+"library_buttons_try_again","再試一次"
+"library_buttons_unlock","解鎖"
+"library_buttons_yes","是"
+"library_error_cancelled","已取消"
+"library_error_cancelled_fb_connection","已取消與 Facebook 連線。"
+"library_error_connection_failed","連接失敗"
+"library_error_connection_lost","連線中斷"
+"library_error_connection_problem","網路連線失敗。我們會儘快將獎勵發送給您。"
+"library_error_disconnect_fb","中斷與 Facebook 的連線"
+"library_error_disconnected","連線中斷"
+"library_error_error","錯誤"
+"library_error_fb_sessionexpired","您的 Facebook 工作階段已逾時。請再登入一次。"
+"library_error_goldbars","購買金條失敗"
+"library_error_noconnection","未連接"
+"library_error_noconnection_fb1","無法連接 Facebook。 此登錄名稱已連接其他帳戶。"
+"library_error_noconnection_fb2","無法連接 Facebook。 請稍後重試。"
+"library_error_noconnection_fb3","無法連接 Facebook，請再試一次！"
+"library_error_nointernet_connect1","未連上網路"
+"library_error_nointernet_connect2","無法連線至伺服器。請確認您有連接至網絡並再試一次。"
+"library_error_nointernet_connect3","我們找不到網際網路連線。請再試一次！"
+"library_error_nointernet_connect4","找不到網路連線。 請稍後再試。"
+"library_error_server_error","伺服器錯誤"
+"library_error_somethingwrong1","好像出問題了"
+"library_error_somethingwrong2","發生問題，請嘗試重新載入遊戲！"
+"library_error_syncproblem","同步發生問題！"
+"library_error_tryagain","請再試一次！"
+"library_error_unable_disconnect_fb","無法中斷 Facebook 的連線"
+"library_error_update","您的遊戲需要更新。"
+"library_errors_forgotten_user_dialog_GDPR","我們已收到刪除此帳號的請求。如要完成此請求，請移除本遊戲及其他 King 遊戲。如果有其他問題，請透過 queries@support.king.com 與我們聯絡。"
+"library_gave_a_life","贈送了你一個生命值！"
+"library_gave_lives","贈送了你生命值！"
+"library_generic.3movesleft","還剩 3 步"
+"library_generic.enemy_turn_line_break","敵方
+回合"
+"library_generic.faster_life_refill.body","你的生命值在本週的每一天會恢復得更快，所以就能繼續快樂暢玩。雖然只是一點小小的獎勵，本遊戲製作團隊全員仍希望這能讓你在這段期間放鬆心情。"
+"library_generic.faster_life_refill.body_closure","今天是快速補充生命值的最後一天。遊戲開發團隊全員希望這次開放的小小功能有在這段時間幫上一點忙。希望你玩得愉快！"
+"library_generic.faster_life_refill.body_over","你的快速補充時間已結束。遊戲開發團隊全員希望這個小小功能有在這段時間幫上一點忙！"
+"library_generic.faster_life_refill.title","想玩就玩，不用客氣！"
+"library_generic.faster_life_refill.title_closure","快速補充的最後一天！"
+"library_generic.faster_life_refill.title_over","快速補充已結束！"
+"library_generic.moves_left","剩餘
+步數"
+"library_generic.swipe_up","往上滑動"
+"library_generic.target","目標"
+"library_generic_1_day","1 天"
+"library_generic_5xtramoves","%s 向你贈送了 5 次額外移動"
+"library_generic_booster","道具"
+"library_generic_booster_unlocked","強化道具已解鎖！"
+"library_generic_boosters","強化道具"
+"library_generic_boosters_recharged","強化道具已補充完畢！"
+"library_generic_bug_fixes","遊戲錯誤修正"
+"library_generic_bugs_squashed","好消息！各位回報的遊戲錯誤已經都解決了。請好好享受吧！"
+"library_generic_buylives2continue","購買生命值繼續遊戲？"
+"library_generic_coming_soon_excl","即將推出！"
+"library_generic_coming_soon_pre-reg","即將推出！"
+"library_generic_completed","已完成！"
+"library_generic_congrats","恭喜！"
+"library_generic_congrats_u_unlckd_newbooster","恭喜！你解鎖了新的強化道具！"
+"library_generic_congrats_upassed_level_n","恭喜，你終於過了第 {0} 關！"
+"library_generic_connect2fb","與 Facebook 連線"
+"library_generic_connecting2fb","連線到 Facebook"
+"library_generic_customercare","客戶服務"
+"library_generic_disconnect","中斷連線"
+"library_generic_disconnected","連線中斷"
+"library_generic_disconnecting_fromfb","正在和 Facebook 中斷連線"
+"library_generic_douwant2quit","是否要離開？"
+"library_generic_douwant2quit_thislevel","是否要退出此關卡？"
+"library_generic_download_latest_version","好消息！下載最新版本以獲取最佳遊戲體驗！"
+"library_generic_enjoy","盡情玩吧！"
+"library_generic_episode","區域"
+"library_generic_episode_completed_caps","篇章完成！"
+"library_generic_fixes_improvements","各式遊戲錯誤修正與內容改善"
+"library_generic_free","免費"
+"library_generic_game_invite","遊戲邀請"
+"library_generic_game_invites","遊戲邀請"
+"library_generic_get_at_least_n_points","獲得至少 %s 分！"
+"library_generic_goal","目標"
+"library_generic_goals","目標"
+"library_generic_having_fun","玩得開心嗎？"
+"library_generic_im_outoflives_sendme1","我的生命用完了，可以送我一條生命嗎？"
+"library_generic_incl_bug_fixes_improvements","遊戲錯誤修正與內容改善"
+"library_generic_level_failed","闖關失敗！"
+"library_generic_level_n","第 {level} 關"
+"library_generic_lives_given_from_others","其他玩家贈送的生命值"
+"library_generic_loading","載入中"
+"library_generic_loading_ellipsis","正在載入..."
+"library_generic_moves","步數"
+"library_generic_n_free_boosters","%d 個免費魔法道具！"
+"library_generic_n_gave_u_life","%s 向你贈送了一個生命值"
+"library_generic_n_helped2unlock_slot","%s 幫你解鎖了一個欄位"
+"library_generic_new_game","新遊戲！"
+"library_generic_no_more_lives","生命值不夠"
+"library_generic_no_more_moves","步數已用盡"
+"library_generic_objective","目標"
+"library_generic_out_of_moves","移動次數用盡！"
+"library_generic_outoftime","時間到"
+"library_generic_path_open","道路通暢啦！"
+"library_generic_photo","拍照"
+"library_generic_play_again","再玩一次"
+"library_generic_play_now_excl","開始遊戲！"
+"library_generic_play_on_for","繼續遊戲"
+"library_generic_play_on_multiple_devices","在多個設備上進行遊戲！"
+"library_generic_play_with_friends","和好友一起玩"
+"library_generic_player","玩家"
+"library_generic_player_you","你"
+"library_generic_players_requesting_life","需要生命值的玩家"
+"library_generic_portrait","頭像"
+"library_generic_rate_us","請告訴我們你的想法。"
+"library_generic_refill_lives","補滿生命值"
+"library_generic_request_help","請求幫助"
+"library_generic_roadblock","路障！"
+"library_generic_rusure","你確定嗎？"
+"library_generic_score","分數："
+"library_generic_search_friends","搜索好友"
+"library_generic_see_ur_friends_on_map","可在地圖上看到好友的位置！"
+"library_generic_select_boosters","選擇魔法道具"
+"library_generic_select_friends","選擇好友"
+"library_generic_sent_u_message","%s 向你發送了一條訊息"
+"library_generic_shuffle","洗牌"
+"library_generic_shuffling","重新排列"
+"library_generic_so_close_caps","只差一點了！"
+"library_generic_soclose","只差一點！"
+"library_generic_status","狀態"
+"library_generic_success_excl","成功！"
+"library_generic_sure_want2quit","你確定要退出嗎？"
+"library_generic_sweet_success_excl","成功了！"
+"library_generic_tap_to_play","點按即可遊玩"
+"library_generic_time_d","{days}天"
+"library_generic_time_d_h","{days}天 {hours}小時"
+"library_generic_time_d_h_m","{days}天 {hours}小時 {minutes}分"
+"library_generic_time_d_h_m_s","{days}天 {hours}小時 {minutes}分 {seconds}秒"
+"library_generic_time_h","{hours}小時"
+"library_generic_time_h_m","{hours}小時 {minutes}分"
+"library_generic_time_h_m_s","{hours}小時 {minutes}分 {seconds}秒"
+"library_generic_time_m","{minutes}分"
+"library_generic_time_m_s","{minutes}分 {seconds}秒"
+"library_generic_time_s","{seconds}秒"
+"library_generic_time_w","{weeks}週"
+"library_generic_time_w_d","{weeks}週 {days}天"
+"library_generic_time_w_d_h","{weeks}週 {days}天 {hours}小時"
+"library_generic_toplist","高分榜"
+"library_generic_u_currently_have_n_goldbars","你目前有 {0} 條金條"
+"library_generic_u_didnt_reach_goal","你沒有達到目標！"
+"library_generic_u_got_new_life","你獲得新生命！"
+"library_generic_u_just_received","你剛剛獲得了"
+"library_generic_u_pressed_quit_button","你按了退出鍵"
+"library_generic_u_ran_outofmoves","移動次數用完了"
+"library_generic_u_received_n_goldbars","你獲得了 %s 根金條！"
+"library_generic_u_won_caps","你贏了！"
+"library_generic_ull_lose_life","你將損失一條生命值！"
+"library_generic_unlimited_lives24hrs","你獲得了 24 小時的無限生命！"
+"library_generic_unlock_in","解鎖剩餘時間："
+"library_generic_unlock_more_levels","解鎖更多關卡！"
+"library_generic_upassed_friend","你超過了 1 位好友！"
+"library_generic_upassed_n_and_others","你超過了 %s 和其他 %d 位玩家"
+"library_generic_uquitlevel","你已退出關卡！"
+"library_generic_uran_outoftime","時間到！"
+"library_generic_ureceived_message","你收到了一條訊息！"
+"library_generic_waiting","等候中……"
+"library_generic_weekday_friday","週五"
+"library_generic_weekday_monday","週一"
+"library_generic_weekday_saturday","週六"
+"library_generic_weekday_sunday","週日"
+"library_generic_weekday_thursday","週四"
+"library_generic_weekday_tuesday","週二"
+"library_generic_weekday_wednesday","週三"
+"library_generic_welcome_back","歡迎回來！"
+"library_generic_welcome_n","歡迎你，{0}！"
+"library_generic_x_days","{0} 天"
+"library_generic_you_win","你贏了！"
+"library_html5_frame_download_from_apple","抱歉，我們不支援此瀏覽器。<br/>請從 Apple App Store 下載遊戲，或是使用桌上型電腦的瀏覽器！"
+"library_html5_frame_download_from_google","抱歉，我們不支援此瀏覽器。<br/>請從 Google Play 下載遊戲，或是使用桌上型電腦的瀏覽器！"
+"library_html5_frame_download_from_wp","Sorry, we don't support this browser.<br/> Please download the game from Windows Store or visit us using a desktop browser\!"
+"library_html5_frame_downloading_game","下載中…"
+"library_html5_frame_fatal_error","您在使用時遭遇錯誤，我們正在努力修復這個問題。<br/>請稍後再試一次。"
+"library_html5_frame_incompatible_browser","Sorry, we do not support your browser.<br/>Please use one of the following browsers to play\:"
+"library_html5_frame_incompatible_browser_64","抱歉，我們並不支援您使用的瀏覽器。<br/>請安裝 64 位元版本的瀏覽器。"
+"library_html5_frame_incompatible_webgl","我們無法執行 WebGL，請確認您已為裝置中的顯示卡安裝了最新版本的驅動程式。<br/>請前往：<a href=\"http://get.webgl.org/\">WebGL</a> 取得啟用的相關資訊。"
+"library_html5_frame_visit_desktop","抱歉，我們無法為您的手機提供支援。<br/>請使用桌上型電腦的瀏覽器。"
+"library_language_Indonesian","Indonesian"
+"library_language_Thai","Thai"
+"library_language_croatian","Croatian"
+"library_language_czech","Czech"
+"library_language_danish","Danish"
+"library_language_dutch","Dutch"
+"library_language_esmx","Spanish, Mexico"
+"library_language_finnish","Finnish"
+"library_language_french","French"
+"library_language_german","German"
+"library_language_italian","Italian"
+"library_language_japanese","Japanese"
+"library_language_korean","Korean"
+"library_language_norwegian","Norwegian"
+"library_language_polish","Polish"
+"library_language_portuguese","Portuguese, Portugal"
+"library_language_ptbr","Portuguese, Brazil"
+"library_language_romanian","Romanian"
+"library_language_russian","Russian "
+"library_language_slovak","Slovak"
+"library_language_spanish","Spanish"
+"library_language_swedish","Swedish"
+"library_language_turkish","Turkish"
+"library_language_zhcn","Simplified Chinese"
+"library_language_zhtw","繁體中文"
+"library_social_I_need_life","我需要生命值！"
+"library_social_Im_out_of_lives_send_me1","我的生命用完了，可以送我一條生命嗎？"
+"library_social_ask4help","請求協助"
+"library_social_booster_unlocked","強化道具已解鎖！"
+"library_social_buy_lives_to_continue","購買生命值繼續遊戲？"
+"library_social_completed","已完成！"
+"library_social_congrats_u_completed_hard_lvl","恭喜！
+你完成了這次艱巨的挑戰。"
+"library_social_congrats_you_passed_level","恭喜，你終於過了第 {0} 關！"
+"library_social_congrats_youve_unlocked_new_booster","恭喜！你解鎖了新的魔法道具！"
+"library_social_congratulations","恭喜！"
+"library_social_days","天"
+"library_social_do_u_want_2_quit","想退出嗎？"
+"library_social_download_latest_version_description","好消息！下載最新版本以獲取最佳遊戲體驗！"
+"library_social_episode_completed_caps","篇章完成！"
+"library_social_episode_n_completed","完成第 {0} 區！"
+"library_social_follow_us_on_twitter","在 Twitter 上追蹤關注我們的消息"
+"library_social_friend_passed","超越了朋友"
+"library_social_friends_beaten","贏過朋友了"
+"library_social_friends_can_send_u_lives","朋友可以送你生命！"
+"library_social_friends_passed","被超過的好友"
+"library_social_friends_who_helped_u_pass_roadblock","幫助你通過路障的好友"
+"library_social_get_atleast_n_points","獲得至少 %s 分！"
+"library_social_gey_help_unlocking_new_levels","尋求幫助來解鎖新關卡！"
+"library_social_gift","贈禮"
+"library_social_goal","目標"
+"library_social_goals","目標"
+"library_social_good_luck","祝你好運！"
+"library_social_having_fun","玩得開心嗎？"
+"library_social_help_a_friend","協助朋友"
+"library_social_help_friends_by_unlocking_episode","幫助朋友解鎖下一區。"
+"library_social_highscore","最高分"
+"library_social_hour","Hour"
+"library_social_hours","小時"
+"library_social_invite_friend_get_gift","邀請朋友來玩並且獲得禮物！"
+"library_social_invite_friends_to_play","邀請朋友一起來玩！"
+"library_social_join_the_fun","趕快加入，一起享樂！"
+"library_social_life_needed","需要生命"
+"library_social_like_us","給我們按個「讚」！"
+"library_social_like_us_on_facebook","在 Facebook 上給我們按個「讚」"
+"library_social_lives_maximum","生命值已全滿！"
+"library_social_lives_rerstored","生命值已回滿。"
+"library_social_loading","正在載入..."
+"library_social_mailbox_unconsumed_messages_description","您其餘的訊息已儲存，​所以您可以隨時在需要的時候使用它們！"
+"library_social_mailbox_unconsumed_messages_title","完整生命!"
+"library_social_minute","Minute"
+"library_social_minutes","分鐘"
+"library_social_need_help_2unlock_episode","我需要你幫忙解鎖一個篇章！"
+"library_social_new_features","新內容"
+"library_social_new_game","新遊戲！"
+"library_social_no_messages","You don't have any messages."
+"library_social_no_more_lives","生命值不夠"
+"library_social_no_more_lives_excl","沒有生命了！"
+"library_social_objective","目標"
+"library_social_offer_ends_soon","優惠即將結束"
+"library_social_out_of_time","時間到"
+"library_social_out_of_time_excl","時間到！"
+"library_social_play_again","再玩一次"
+"library_social_play_now_excl","開始遊戲！"
+"library_social_play_with_friends","和朋友一起玩！"
+"library_social_please_tell_us_what_u_think","請慷慨分享你的想法。"
+"library_social_powerup","輔助道具"
+"library_social_refill_lives","補充生命"
+"library_social_reload","重新載入"
+"library_social_second","Second"
+"library_social_seconds","秒"
+"library_social_select_boosters","選擇強化道具"
+"library_social_share_now","立即分享"
+"library_social_so_close","只差一點！"
+"library_social_so_close_caps","只差一點了！"
+"library_social_stuck_on_level","我卡在這一關了！"
+"library_social_try_it","現在就試試"
+"library_social_try_now","現在馬上試試！"
+"library_social_unlock_in","解鎖剩餘時間："
+"library_social_unlock_more_levels","解鎖更多關卡！"
+"library_social_waiting","等候中……"
+"library_social_we_want_your_feedback_on_game","我們希望能夠收到您對 {appname} 的意見回饋。"
+"library_social_welcome_n","{0}，歡迎！"
+"library_social_well_done","做得很好！"
+"library_social_you_currently_have_n_goldbars","你目前有 {0} 條金條"
+"library_social_you_didnt_reach_points_goal","你沒有達到目標 {0} 分數！"
+"library_social_you_got_life","你獲得了一個生命值！"
+"library_social_you_got_new_lives","你獲得新生命了！"
+"library_social_you_have_won_24hours_of_unlimited_lives","你獲得了 24 小時的無限生命！"
+"library_social_you_pressed_quit_button","你已按下退出按鈕"
+"library_social_you_ran_out_of_time","時間到！"
+"library_social_you_won","你贏了！"
+"library_social_you_won_caps","你贏了！"
+"library_social_youll_lose_life","你將損失一條生命值！"
+"library_social_your_lives_recharged_enjoy","你的生命值現在已經恢復。 盡情享受遊戲吧！"
+"library_social_youre_invited","你獲得邀請了"
+"library_store_available_4_iOS_android_amazon","支援 iOS、Android 和 Amazon"
+"library_store_available_now_on_fb_android_iphone_ipad","現在可以在 Facebook、Android、iPhone 和 iPad 上玩囉。"
+"library_store_available_on_android","現在在 Android 上也能玩了。"
+"library_store_available_on_ipad","現在在 iPad 上也能玩了。"
+"library_store_balance","平衡"
+"library_store_best_value","最超值"
+"library_store_big_bundle","大包裝"
+"library_store_brand_new_levels_play_now","加入全新關卡，馬上遊玩！"
+"library_store_buy","買"
+"library_store_buy_a_booster","購買魔法道具"
+"library_store_buy_a_booster_unlimited_lives_4_2_hours","購買強化道具就能獲得兩小時的無限生命！
+限時優惠"
+"library_store_buy_gold_bars","購買金條"
+"library_store_buy_lives","購買生命值"
+"library_store_buy_now","立即購買"
+"library_store_coming_soon_on","即將在行動裝置上推出！"
+"library_store_connecting_to_store","正在連線到商店"
+"library_store_couldnt_add_gold_bars","無法增加金條"
+"library_store_couldnt_add_ur_gold_bars_try_again","無法增加你的金條。請再試一次！"
+"library_store_couldnt_connect_w_store","無法連線到商店"
+"library_store_download","下載"
+"library_store_download_now","立即下載"
+"library_store_download_now_4_free","立刻免費安裝遊戲！"
+"library_store_enjoy_ur_welcome_gift_gold_bars","這是專屬於你的迎新禮物：{1} 根金條。好好享用吧！"
+"library_store_exclusive_offer","獨家優惠"
+"library_store_extra_lives","額外生命"
+"library_store_extra_moves","額外步數"
+"library_store_free_game","免費遊戲"
+"library_store_from_makers_of_candy_crush","來自《糖果傳奇》的製作團隊"
+"library_store_full","全滿"
+"library_store_fun_powerful_boosters","有趣又強力的強化道具！"
+"library_store_get_more_lives","獲取更多生命值！"
+"library_store_gold_bars","金條"
+"library_store_gold_bars_added","金條已增加"
+"library_store_gold_bars_package","{0} 根金條組合包"
+"library_store_have_fun_w_ur_purchase","盡情享受您購買的物品吧！"
+"library_store_imessage_stickers","貼圖"
+"library_store_in_progress","交易進行中..."
+"library_store_install","安裝"
+"library_store_install_now_for_free","立刻免費安裝遊戲！"
+"library_store_install_the_game_now_4_free","立刻免費安裝本遊戲！"
+"library_store_l_gold_bars","大金條包"
+"library_store_limited_offer","限時優惠"
+"library_store_m_gold_bars","中金條包"
+"library_store_more_games_from_king","更多 King 推出的遊戲"
+"library_store_new_episode_available","可以參訪新區域囉！"
+"library_store_new_game","新遊戲"
+"library_store_new_levels_available","新關卡上線！"
+"library_store_new_life","新生命"
+"library_store_no_gold_bars_added","未增加金條"
+"library_store_no_money_was_taken_from_ur_account","未從您的帳戶中扣款"
+"library_store_not_connected_2_app_store","尚未連上 App Store！"
+"library_store_not_connected_2_google_play","無法連接 Google Play！"
+"library_store_notconnected2amazonstore","無法連接 Amazon 商店！"
+"library_store_now","現已推出行動版！"
+"library_store_now_also_available_android_download_now","現在也能在 Android 裝置中遊玩了，現在下載，讓你無時無刻都能玩！"
+"library_store_now_also_available_ipad","現在也能在 iPad 上玩了，現在下載，讓你無時無刻都能玩！"
+"library_store_now_also_available_iphone_download_now","現在也能在 iPhone 上玩了，現在下載，讓你無時無刻都能玩！"
+"library_store_now_available_iphone","現在在 iPhone 上也能玩了。"
+"library_store_now_mobile_get_It_free","現在推出手機版了！快來免費下載！"
+"library_store_offer_ends_soon","優惠即將結束"
+"library_store_package_of_gold_bars","{0} 條金條的包裝"
+"library_store_play_new_game_from_king","遊玩 King 推出的新遊戲"
+"library_store_play_on_for","繼續玩："
+"library_store_popular","熱門"
+"library_store_powerful_boosters","強力的強化道具！"
+"library_store_processing_purchase","購買處理中"
+"library_store_purchase_cancelled","購買已取消"
+"library_store_purchase_failed","購買失敗"
+"library_store_purchase_in_progress","正在購買中"
+"library_store_purchase_pending_parental_approval","購買等待處理中。"
+"library_store_purchase_pending_please_be_patient","購買等待處理中。請稍後。"
+"library_store_purchasepopup_pending_goldbars","你重新上線後，就會獲得金條。"
+"library_store_s_gold_bars_pack","小金條包"
+"library_store_sale","大特價！"
+"library_store_secure_payment","安全付款"
+"library_store_seems_ur_having_some_problems_w_this_level","看來你好像卡關了"
+"library_store_send_to_all","贈送給所有人"
+"library_store_shop","商店"
+"library_store_show_more_packages","顯示更多組合貓"
+"library_store_show_popular_packages","顯示熱門商品"
+"library_store_small_bundle","小包裝"
+"library_store_sold","已售"
+"library_store_special_offer","特殊優惠！"
+"library_store_special_pack","特殊組合"
+"library_store_special_time_limited_offer","限時優惠"
+"library_store_starter_pack","初學者包"
+"library_store_time_limited_offer","限時優惠"
+"library_store_time_to_next_life","下一生命值恢復時間："
+"library_store_u_have_bought_gold_bars","你已購買 {0} 條金條。"
+"library_store_ugot_more_goldbars","你獲得了更多金條！"
+"library_store_unable2loadstore_plz_check_ur_internet","無法載入商店。請確認您有連接至網絡並再試一次。"
+"library_store_xl_gold_bars_pack","特大金條包"
+"library_store_xs_gold_bars_pack","特小金條包"
+"library_store_xxl_gold_bars_pack","超級大金條包"
+"lives_refill_title","補充生命值"
+"loading_1","正在尋找鑽石…"
+"loading_2","正在設定城市路線…"
+"loading_3","正在為彩珠增色…"
+"loading_4","正在準備製作工具…"
+"medium_bundle.store.package_name","中組合包"
+"medium_gold_package.store.package_name","中型金條包"
+"messages_fb_invite_friend_message","想要加入我的設計之旅嗎？那就快來一起玩《寶鑽傳奇》！"
+"messages_fb_invite_friend_title","邀請好友"
+"messages_full_lives","生命值已滿"
+"messages_giveLife_message","額外生命值來了！繼續設計吧！"
+"messages_giveLife_title","發送額外生命值給好友們"
+"messages_requestLife_help_message","我的生命值用完了，可以幫幫我嗎？"
+"messages_requestLife_help_title","這些好友能送出額外生命值協助你"
+"mode_goals","目標"
+"most_popular_badge_shop","熱賣精品"
+"msc_allow_access","是否允許遊戲存取你的好友清單？"
+"msc_and_1_other","{0} 和另一位好友"
+"msc_and_others","{0} 和其他 {1} 位好友"
+"msc_asked_for_life","要求額外生命值"
+"msc_asked_for_life_plural","要求額外生命值"
+"msc_friends_permissions","好友請求"
+"msc_gave_a_life","送你生命值！"
+"msc_gave_lives","送你生命值！"
+"msc_invite_friends","邀請好友"
+"msc_my_messages","我的訊息"
+"name_shop","金條商店"
+"nanako_conclusion_1","我會是你永遠的朋友。祝好運。"
+"nanako_conclusion_2","那，我們下次見囉？"
+"nanako_development_1","你真的很有天分。"
+"nanako_development_2","我喜歡你的風格。"
+"nanako_introduction_1","能和你作伴真是我的榮幸。"
+"nanako_introduction_2","我會盡可能幫助你。"
+"no_connection_description","請確認你已開啟行動網路或是 wifi 網路連線。"
+"no_connection_reward","你的獎勵將在恢復連線後送達。
+"
+"no_connection_title","未連上網路"
+"no_moves_body","繼續努力就有機會！"
+"not_lives_full","💖 生命值已補滿！ "
+"on_fire_egp","別鬆懈，繼續維持連勝！"
+"on_fire_hard_level","你是說那關很難嗎？繼續過關吧！"
+"on_fire_level_up_1","繼續獲勝就能增加連勝次數！"
+"on_fire_level_up_2","真棒！這樣你就連勝兩次了！"
+"on_fire_level_up_2_v2","這是第二座獎盃！繼續努力！"
+"on_fire_level_up_3","連勝三次！你真優秀！"
+"on_fire_level_up_3_v2","哇，這下越來越有意思了。繼續加油！"
+"on_fire_level_up_4","還差一點！再贏一次就能獲得最大的獎盃！"
+"on_fire_level_up_5","你是一位貨真價實的珠寶大師！"
+"on_fire_level_up_5_cap_1","你的手藝精巧非凡！繼續獲勝吧！"
+"on_fire_level_up_5_cap_2","無論有多困難，你肯定辦得到！"
+"on_fire_level_up_5_cap_3","加油！你的前途無量！"
+"on_fire_peter_body","你好，我是彼得。
+
+聽說你是這一代最出色的珠寶製作師。你準備好嘗試新挑戰了嗎？"
+"on_fire_superhard_level","那是超級的困難關卡！只有你才能通過那關！"
+"on_fire_tutorial_1st_win","初次勝利"
+"on_fire_tutorial_5th_win","第五次勝利"
+"on_fire_tutorial_body","連續在多個關卡中獲勝吧。獲勝越多次就能獲得更棒的獎勵！"
+"out_of_lives_hint","沒有生命值了！也許我們可以在等待的時候練習上色？"
+"overseasTableData","<tr>
+    <td>Google Inc</td>
+    <td>https://support.google.com/policies/contact/general_privacy_form</td>
+    <td>Cloud Storage</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Google Ireland Limited</td>
+    <td>https://support.google.com/policies/contact/general_privacy_form</td>
+    <td>Digital marketing and in-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Ireland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Unity Technologies Finland Oy</td>
+    <td>DPO@unity3d.com</td>
+    <td>In-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Finland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Verizon Media Inc</td>
+    <td>GDPRrepresentative@mhc.ie</td>
+    <td>Digital marketing and in-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Leanplum Inc</td>
+    <td> privacy@leanplum.com</td>
+    <td>Client relationship management</td>
+    <td>Email address, name</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Looker Data Sciences Inc</td>
+    <td>looker-data-protection@google.com</td>
+    <td>Data analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Celtra, Inc.</td>
+    <td>Privacy@Celtra.com</td>
+    <td>Carrying out player surveys</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Smart Media4U Technology Pte. Ltd</td>
+    <td>legalsupport@ushareit.com.</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Singapore</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>InMobi PTE Limited</td>
+    <td>privacy@inmobi.com </td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Singapore</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>SpotXChange Inc</td>
+    <td>privacy@spotx.tv</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Smartclip Europe (formerly known as SpotX Europe GmbH)</td>
+    <td>privacy@spotx.tv</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Germany</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Pubmatic Inc</td>
+    <td>dpo@pubmatic.com</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Ironsource UK Limited</td>
+    <td>dpo@ironsrc.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United Kingdom</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Aarki Inc</td>
+    <td>privacy@aarki.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Moloco Inc.</td>
+    <td>privacy@molocoads.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Adikteev GmbH and Adikteev SA</td>
+    <td>dpo@adikteev.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Germany and France, respectively</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>LiftOff Inc</td>
+    <td>harry@liftoff.io</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Vungle Inc</td>
+    <td>privacy@vungle.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Digital Turbine Media, Inc</td>
+    <td>privacy@digitalturbine.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Tapjoy Inc</td>
+    <td>privacy@tapjoy.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Facebook Inc.</td>
+    <td>https://www.facebook.com/help/contact/540977946302970</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Unity Technologies Finland Oy</td>
+    <td>DPO@unity3d.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Finland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>OpenX Limited</td>
+    <td>dpo@openx.com</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United Kingdom</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Triple Lift, Inc.</td>
+    <td>dpo@triplelift.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA/ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Kayzen (Real Time Technologies GmbH)</td>
+    <td>berlin@isico-datenschutz.de</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Germany</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Vanilla Forums Inc</td>
+    <td>support@vanillaforums.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address</td>
+    <td>Canada</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Engagor NV</td>
+    <td>privacy@clarabridge.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address</td>
+    <td>Belgium</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Zendesk, Inc</td>
+    <td> privacy@zendesk.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address, username, King ID, email content</td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Survey Gizmo</td>
+    <td>compliance@alchemer.com or alchemer@gdpr-rep.com </td>
+    <td>Player Surveys</td>
+    <td>King ID</td>
+    <td>United Kingdom</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>MaestroQA, Inc</td>
+    <td>privacy@maestroqa.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address, username, email content</td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Intercom R&D Unlimited Company</td>
+    <td>legal@intercom.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address, username, chat content</td>
+    <td>Ireland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>"
+"overseasTableHeadings","<tr>
+    <th>Recipient name</th>
+    <th>Contact information</th>
+    <th>Recipient's purpose of using personal information</th>
+    <th>Items of personal information transferred</th>
+    <th>Transfer location</th>
+    <th>Transfer date and method</th>
+    <th>Period of retention by recipient</th>
+</tr>"
+"overseasTitle","Overseas Transfer of Personal information"
+"palette_locked","獲得更多星星就能解開更多調色盤！"
+"passport_back_map","回到地圖"
+"passport_facebook_line1","不會失去遊戲進度！"
+"passport_facebook_line2","從好友那裡領取免費生命值！"
+"passport_facebook_line3","看看好友在地圖上的位置！"
+"passport_invite_friends","邀請好友一起玩！"
+"passport_name","露西"
+"passport_stamps","造訪過的城市"
+"passport_stamps_subtitle","收集所有城市旅遊戳章！"
+"peekaboo_announcement_intro_description","現在能看到其他正在玩遊戲的玩家！"
+"peekaboo_announcement_intro_header","線上玩家"
+"peekaboo_announcement_status_header","你的線上狀態"
+"peekaboo_announcement_status_off_description","沒人會知道你正在玩遊戲"
+"peekaboo_announcement_status_on_description","其他玩家會知道你正在玩以及正在參加"
+"peekaboo_announcement_status_settings","在設定中切換你的線上狀態"
+"peekaboo_encourage_description_1","你正在和其他玩家進行遊戲"
+"peekaboo_encourage_description_2","讓他們知道吧！"
+"peekaboo_encourage_header","保持連接！"
+"peekaboo_settings_online_status","線上狀態"
+"peekaboo_toggle_off","關"
+"peekaboo_toggle_on","開"
+"peter_conclusion_1","優秀！我為你準備了一份驚喜。"
+"peter_conclusion_2","自己的節奏與步調！"
+"peter_development_1","我好懷念那個人才與創意輩出的時代。"
+"peter_development_2","你的表現很好！"
+"peter_introduction_1","我看得到你的潛力…準備好了嗎？"
+"peter_introduction_2","看來你可以掌握得很好！"
+"piggy_back.store.package_name","小豬撲滿組合"
+"piggy_bank.charged_popup.description","已經可以打開小豬撲滿了！趕快收集努力得來的成果吧！"
+"piggy_bank.end_popup.total_tag","總量"
+"piggy_bank.error_purchase.description","似乎出了一點問題，但你帳戶中的金額將不會變更，小豬撲滿也完好如初！"
+"piggy_bank.error_purchase.title","糟糕！"
+"piggy_bank.full_popup.description","小豬撲滿快要裝不下了，趕快收集努力得來的成果吧！"
+"piggy_bank.generic.full_tag","已滿！"
+"piggy_bank.info_popup.description","收集至少 {number} 根金條來打開小豬撲滿，並領取裡面的獎勵。"
+"piggy_bank.info_popup.title","遊玩關卡並獲得星星，就能存入金條"
+"piggy_bank.info_popup.title_capFull","撲滿已裝滿！"
+"piggy_bank.info_popup.title_charged","小豬撲滿已補充！"
+"piggy_bank.info_popup.title_notcharged","小豬撲滿"
+"piggy_bank.new_piggy_popup.button","太棒了！"
+"piggy_bank.new_piggy_popup.description","獲得星星就能在小豬撲滿中累積額外金條！
+你可以隨時收取累積的金條。"
+"piggy_bank.new_piggy_popup.title","你獲得新的小豬撲滿！"
+"piggy_bank.reminder.full_tag","快來領取！"
+"piggy_bank.replay_level.description","你已經獲得本關卡的所有金條！"
+"piggy_bank.start_piggy_popup.title","你拿到了一個小豬撲滿！"
+"piggy_bank.store.description","收集努力得來的成果"
+"piggy_bank.success_purchase.description","你獲得 {number} 根金條！"
+"piggy_bank.success_purchase.tutorial","點一下小豬撲滿，領取獎勵！"
+"ping_pong_challenge_birds","釋放 {0} 隻魔術小鳥"
+"ping_pong_challenge_chaos_blast","製造 {0} 顆星光爆破"
+"ping_pong_challenge_charms_blue","收集 {0} 顆藍色彩珠"
+"ping_pong_challenge_charms_green","收集 {0} 顆綠色彩珠"
+"ping_pong_challenge_charms_purple","收集 {0} 顆紫色彩珠"
+"ping_pong_challenge_charms_red","收集 {0} 顆紅色彩珠"
+"ping_pong_challenge_charms_yellow","收集 {0} 顆黃色彩珠"
+"ping_pong_challenge_cross_blast","製造 {0} 顆十字爆破"
+"ping_pong_challenge_diamonds","收集 {0} 顆鑽石"
+"ping_pong_challenge_dolls","收集 {0} 個寶盒娃娃"
+"ping_pong_challenge_first_attempt_win","初次挑戰就完成 1 個關卡"
+"ping_pong_challenge_first_attempt_wins","初次挑戰就完成 {0} 個關卡"
+"ping_pong_challenge_hard_level","完成 1 個困難關卡"
+"ping_pong_challenge_hard_levels","完成 {0} 個困難關卡"
+"ping_pong_challenge_horizontal_blast","製造 {0} 顆水平爆破光暈"
+"ping_pong_challenge_jewelbox","打開 {0} 個珠寶盒"
+"ping_pong_challenge_level_stars","以 3 顆星星成績過 1 關"
+"ping_pong_challenge_levels_stars","以 3 顆星星成績過 {0} 關"
+"ping_pong_challenge_link","連接 {0} 顆以上的彩珠"
+"ping_pong_challenge_moves_left","在剩下 {0} 步的狀況下過 1 關"
+"ping_pong_challenge_necklace","讓 {0} 顆鑽石落在項鍊上"
+"ping_pong_challenge_normal_level","完成 {0} 個關卡"
+"ping_pong_challenge_score","拿到 {0} 以上分數"
+"ping_pong_challenge_stars","收集 {0} 顆星星"
+"ping_pong_challenge_status_player_header","你的回合"
+"ping_pong_challenge_status_rival_header","對手的回合"
+"ping_pong_challenge_vertical_blast","製造 {0} 顆垂直爆破光暈"
+"ping_pong_end_turn_header","挑戰完成！"
+"ping_pong_end_turn_player_description","你讓挑戰難度更上一層"
+"ping_pong_end_turn_rival_description","對手讓挑戰難度更上一層"
+"ping_pong_failure_description","你未能完成此挑戰。祝你下次好運！"
+"ping_pong_first_turn_description","由你先挑戰！"
+"ping_pong_first_turn_header","考驗開始！"
+"ping_pong_lets_start","開始"
+"ping_pong_no_connection","本挑戰需要連上網際網路！"
+"ping_pong_player_challenge","你的挑戰"
+"ping_pong_player_turn_time_remaining_hour","你的回合在 {0} 小時 {1} 分後結束"
+"ping_pong_player_turn_time_remaining_min","你的回合在 {0} 分 {1} 秒後結束"
+"ping_pong_player_turn_time_remaining_sec","你的回合在 {0} 秒後結束"
+"ping_pong_presentation_description","繼續在挑戰中得勝就能獲得獎勵"
+"ping_pong_presentation_header","珠寶匠考驗"
+"ping_pong_push_notification_end","珠寶匠考驗已結束！快來看看結果…"
+"ping_pong_push_notification_new_turn","你的回合開始了！珠寶匠考驗正等著你！"
+"ping_pong_rival_challenge","對手的挑戰"
+"ping_pong_rival_turn_time_remaining_hour","對手回合在 {0} 小時 {1} 分後結束"
+"ping_pong_rival_turn_time_remaining_min","對手回合在 {0} 分 {1} 秒後結束"
+"ping_pong_rival_turn_time_remaining_sec","對手回合在 {0} 秒後結束"
+"ping_pong_rival_working_on_it","進行中"
+"ping_pong_time_up","時間到！"
+"ping_pong_victory_congratulations","恭喜！"
+"ping_pong_victory_player_description","你是冠軍！"
+"ping_pong_victory_rival_description","你的對手未能完成此挑戰"
+"ping_pong_winner_description","這是你努力獲得的獎勵！"
+"ping_pong_winner_header","你贏了！"
+"pop_up_stars_collected_body_color","已著色的明信片"
+"pop_up_stars_collected_body_color_and_share","已著色並分享的明信片"
+"pop_up_stars_collected_body_share","已分享的明信片"
+"pop_up_stars_collected_title","獲得的星星數"
+"popup_timer_hour","小時"
+"postcard5_body","旅遊能激起我腦中最棒的設計靈感。"
+"postcard6_body","我喜愛發掘新的飾品。"
+"postcard7_body","我的巴黎初體驗是和家母一起去的，真的很好玩！"
+"postcard8_body","我的作品已經面世了！"
+"postcard_introduction_body","在你的相簿中瀏覽！"
+"postcard_out_of_lives_body","在等待的時候為明信片上色吧！"
+"postcard_out_of_lives_title","已可使用相簿"
+"pp_01","King makes great games that offer fun, bitesize entertainment experiences for everyone to enjoy. We at King respect the privacy of everyone who uses our games, website(s) and all related services which we may provide to you from time to time (“Services”). In this document we refer to King.com Limited as “King” “us”, “we” or “our” and we refer to you as “you” and “your”.
+<br>
+<br>
+This document, the “Privacy Policy”, explains how we collect, process and store any personal data belonging to you, meaning information about you which is personally identifiable such as your name, address, or email address. Such information is referred to throughout this policy as “Personal Information” or “data”.
+<br>
+<br>
+If you have any concerns about providing data to us or having it used in any manner permitted in this Privacy Policy you should not use our Services. As set out in the terms and conditions relating to our Services, our Services are not intended for children under 14 years of age. You must be at least 14 years old to access and use our Services. We do not knowingly collect personal information from children under 14 years of age."
+"pp_01_title","1. Introduction"
+"pp_02","We are a company called King.com Limited. We are registered in Malta, with registered number C42504. Our registered office is Aragon Business Centre Level 4, Dragonara Road, St Julians STJ3140, Malta."
+"pp_02_title","2. About us"
+"pp_03","<strong>Items of Personal Information to be collected and processed</strong>
+<br>
+<br>
+We may collect and process the following data about you:
+<br>
+<br>
+(A)	Essential items;
+<ul>
+<li>any Personal Information you provide us with when you fill in forms when using our Services, or when you create an account with us, for example your email address, name, age, location and/or gender;</li>
+<li>details of your use of our Services and the resources that you access (for example, information about which country you’re from and how and when you play our games or visit our website(s), or what device you use to access our Services);</li>
+<li>if you contact us or respond to messages and communications that we send to you, we may keep a record of that correspondence;</li>
+<li>your interactions with us on our social media channels; and</li>
+<li>information we collect via cookies and other similar technologies, as explained further below.</li>
+</ul>
+<br>
+<br>
+(B)	Optional items:
+
+<ul>
+<li>Where you allow us to interact with any third party social network, we may collect and process the personal information which that social network provides to us about you, for example, the name and ID you use on that social network, your email address, profile picture and your contacts list; and</li>
+<li>Your ad identifier, where you have not disabled its use, as described below.</li>
+</ul>
+<br>
+<br>
+<strong>Ad Identifiers</strong>
+<br><br>
+We advertise our Services on mobile devices. Ad identifiers are non-permanent, non-personal, device identifiers such as the Android advertising ID and/or Apple’s ID for advertising, or IDFA. When we advertise our Services on mobile devices, we may use your device’s advertising identifier and other information associated with it, which we may hold ourselves or may be provided to us by our advertising network partners, to help us to deliver ads that relate to your interests and to improve and measure the effectiveness of ad campaigns. You can choose to prevent your device’s ad identifier being used for interest based advertising, or you can reset your device’s ad identifier, by changing the settings of your device. Settings vary from device to device but if you are using an Apple device with iOS 7 you can find the ad identifier settings under Settings>Privacy>Advertising, and if you are using a Google Android device running Android 2.3 or later you can find the ad identifier settings under Settings>Google>Ads.
+
+<br>
+<br>
+<strong>Payment Information</strong>
+<br>
+<br>
+When you purchase Services on our website(s), we may collect certain payment information from you on behalf of our payment service providers, but this information is temporarily cached in a way that is unreadable by King. When you purchase items via our apps (such as those you can purchase in the App Store or on Google Play) we do not collect or store any payment information from you."
+"pp_03_title","3. Information we collect about you, and how we collect it"
+"pp_04","Ad identifiers, cookies and similar technologies are used by us to provide our Services to you and in order to collect data from your device. These technologies allow us and our third party advertising partners to:
+<ul>
+<li>recognise you and your device;</li>
+<li>provide interest-based advertising to you;</li>
+<li>allow our Services to interact with a third party social network or platform (where you have chosen to allow such interaction);</li>
+<li>allow us to understand how you interact with our websites (for example, where we use cookies such as the Google Analytics cookie on our Websites);</li>
+<li>allow our payment processors to process your payment instructions; and</li>
+<li>enable us and third parties to provide you with more customized services, for example to provide our Services in the correct language.</li>
+</ul>
+For more information on the cookies we use and why we use them, please see here."
+"pp_04_title","4. Cookies and similar technologies"
+"pp_05","The company uses user's personal information as follows:
+<br>
+<br>
+<ul>
+<li>contacting you, for example as part of customer service or to send you updates about our Services, or to send you push notifications where you have consented to receiving such notifications from us;</li>
+<li>managing your account and relationship with us and improving your experience when you use our Services;</li>
+<li>research, surveying, and engaging with you, for example by sending you communications (including by email) for these purposes;</li>
+<li>marketing and promotion of our Services or related products, for example sending you communications (including by email) for these purposes on our, or a third party's behalf. For example, we might send you information about merchandise relating to our Services. If you do not want us to use your data in this way please let us know by contacting us at <a href=\"mailto:queries@support.king.com\">queries@support.king.com</a>;</li>
+<li>to create reports, analysis or similar services for use by us for the purposes of research or business intelligence, for example to track potential problems or trends with our Services;</li>
+<li>preventing cheating, crime or fraud; and/or</li>
+<li>as otherwise expressly set out in this Privacy Policy or as required by law.</li>
+</ul>"
+"pp_05_title","5. Purpose of Use of User's Personal Information"
+"pp_06","We will only share your data with third parties (for example, our group companies or suppliers, as set out below):
+<br>
+<br>
+<ul>
+<li>with your consent (including as set out in this Privacy Policy);</li>
+<li>as reasonably necessary in order to provide the Services to you (for example, by providing your Personal Information to suppliers we may use to fulfil the Services or to communicate with you);</li>
+<li>where it is necessary to carry out your instructions (for example, to process a payment instruction we must provide your Personal Information to our payment processors);</li>
+<li>where your data is on an anonymous and aggregated basis, meaning you could not be personally identified from it;</li>
+<li>when you submit information as part of a competition or otherwise interact with our social media channels (for example, by providing a testimonial about one of our Services) we may publish the information you submitted, alongside your name and home country on our website and social media channels;</li>
+<li>as we reasonably believe is permitted by law or regulation;</li>
+<li>in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and/or any other agreement with you; or to protect the rights, property, or safety of King, our users, or others, for example by passing your information to fraud prevention agencies, or other organisations involved in crime or fraud prevention;</li>
+<li>in the event that there is a sale of the assets of King or corporate restructuring, or as a result of a change of control of King or one of its group companies, or in preparation of any of these events. Any third party to which King transfers or sells King’s assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy. We will not sell or rent your information to any third party outside of these circumstances.</li>
+</ul>
+<br>
+<br>
+<strong>Outsourcing of handling:</strong>
+<br>
+<br>
+Please see here for information on how we transfer personal information of users to overseas."
+"pp_06_title","6. Providing User Personal Information to Third Parties and Delegation of Processing Personal Information"
+"pp_07","Please see {0}here{1} for information on how we transfer personal information of users to overseas."
+"pp_07_title","7. Overseas Transfer of Personal Information"
+"pp_08","You may allow our Services to interact with a third party social network or platform, which will provide data about you to us. These applications or websites are created and maintained by a third party which is not a part of, or controlled by King. You should ensure that you read their terms of service and privacy policies to understand how they treat your data and what data they might share with us.
+<br>
+<br>
+You understand that where you allow your account with us to interact with any third party social network or platform, information about your progress and gameplay may be visible to your contacts (and vice versa) in order that you may enjoy playing socially. This data includes your name, your social media profile picture and your scores and/or progress in our games.
+<br>
+<br>
+You understand that where you allow your account with us to interact with any third party social network or platform, information about your progress and gameplay may be visible to your contacts (and vice versa) in order that you may enjoy playing socially. This data includes your name, your social media profile picture and your scores and/or progress in our games.
+<br>
+<br>
+You can make changes to what data a third party social network or platform shares with us, or stop our Services interacting with that social network or platform by adjusting your settings with that third party provider, however you may find you are not able to enjoy all of the same features of our Services."
+"pp_08_title","8. Interaction with third party social networks or platforms"
+"pp_09","We will retain your Personal Information for as long as is necessary to fulfil the purposes for which it was collected (as set out in paragraph 4) or as needed to provide you with Services, after which time it will be destroyed. If printed on paper, Personal Information will be destroyed by shredding the paper documents and, if saved in the form of electronic files, Personal information will be destroyed by technical means making the records non-reproducible.
+<br>
+<br>
+We may retain your Personal Information after you have closed any account you have with us or after we have ceased providing Services to you if retention of your Personal Information is reasonably necessary to:
+<br>
+<br>
+<ul>
+<li>comply with our legal obligations;</li>
+<li>meet regulatory requirements;</li>
+<li>resolve disputes between members; </li>
+<li>prevent fraud, cheating or abuse; or </li>
+<li>enforce this Privacy Policy or any other agreement we may have with a user.</li>
+</ul>
+<br>
+<br>
+For example, although we may retain your Personal Data for up to 5 years in order to comply with the e-Commerce Act, we may choose to retain your Personal Data for longer than this period in order to facilitate the other purposes listed above."
+"pp_09_title","9. Period of Use and Retention, Destruction Procedures and Methods of User Personal Information."
+"pp_09_ttile","9. Links from our Services"
+"pp_10","The security of your Personal Information is important to us. We maintain appropriate technical and physical safeguards to protect your Personal Information against accidental or unlawful destruction or loss, alteration, unauthorised disclosure or access, use and all other unlawful forms of processing of the data in our possession. We use the same level of skill in protecting your Personal Information as other similar games developers. However, since the internet is not a completely secure environment we cannot guarantee that information you transmit via our Games will not be accessed, disclosed, altered or destroyed by breach of any of our safeguards."
+"pp_10_title","10. Security Measures to Protect User Personal Information"
+"pp_11","We may provide links to third party websites from our Services. You understand that when you click on these links any data which you provide thereafter is subject to such third party’s privacy policy and not to ours. Although we will endeavour only to link to reputable websites, King takes no responsibility for the content, safety or security of any third party website."
+"pp_11_title","11. How to contact us"
+"pp_11_ttile","11. Links from our Services"
+"pp_12","<ul>
+<li>You have the right to withdraw your consent given for the collection/use, Outsourcing etc. of Personal Information at any time. </li>
+<li>You have the right to request inspection of, or provision of a report on, (i) the information that we hold about you, (ii) status of use and Outsourcing, etc. of Personal Information and (iii) status of providing consent to such use, Outsourcing, etc.  If you would like inspection or such a report, please contact us at the email address provided in Section 11 below - we may make a small charge for this. </li>
+<li>We want to make sure that your Personal Information is accurate and up to date.  If any information is inaccurate, you may ask us to modify, correct or remove inaccurate information by contacting us at the email address provided in Section 11 below.</li>
+<li>Information that you have shared via our Services on any social network or third party platform cannot be amended or deleted by us where it is in the control of that social network or third party platform. In addition, where any third party copies information which you have made available via the use of our Services (for example, one of your friends on a social network you allow to interact with your account), we may not be able to amend or delete it because it may not be in our control.</li>
+<li>You have the right to ask us not to use your Personal Information for marketing purposes. To change your marketing preferences, or to unsubscribe, please contact us at the email address provided in Section 11 below.</li>
+</ul>"
+"pp_12_title","12. Your rights in relation to your Personal Information"
+"pp_13","<p>如果您對本隱私權政策相關事宜有任何疑問或疑慮，包含欲行使您的任何權利，可透過以下多種方式聯絡我們︰</p>
+
+<ol>
+<li>透過我們的客服網頁：{0}；</li>
+<li>如有疑問，請參閱我們的{1}常見問題{2}；</li>
+<li>您可以傳送電子郵件至 {3}；或者</li>
+<li>郵寄信件至 King.com Ltd，地址︰Aragon House Business Centre, Level 4, Dragonara Road, St Julians STJ3140, Malta。</li>
+</ol>
+
+<p>本隱私權政策所收集之資訊的資料控制者為 King.com Limited。您可以透過以下電子郵件地址聯絡我們的資料保護專員：dataprotectionofficer@king.com。</p>"
+"pp_13_title","13. How to contact us"
+"pp_14","We hope that you won’t have any complaints about us or our Services. If you are unhappy with our use of your Personal Information then please contact our customer services department by emailing <a href=\"mailto:queries@support.king.com\">queries@support.king.com</a>
+<br>
+<br>
+You also have the right to complain to your local data protection authority if there is a problem."
+"pp_14_title","14. Complaints"
+"pp_15","If any court or other competent authority finds any of the terms of this Privacy Policy to be invalid or unenforceable, the other terms of this Privacy Policy will not be affected.
+<br>
+<br>
+This Privacy Policy is governed by and interpreted in accordance with the laws of England. Any dispute arising in connection with this Privacy Policy will be subject to the exclusive jurisdiction of the courts of England unless you choose the courts of your home country.
+<br>
+<br>
+We are constantly innovating and looking for new ways to improve our Services and our games. We may therefore amend this Privacy Policy from time to time to reflect such improvements or any other changes to our business. We will endeavour to tell you about any significant changes to this Privacy Policy which we feel may disadvantage you in any material way. If you object to any of the changes you should immediately stop using our Services and close any account you may have with us.
+<br>
+<br>
+This Privacy Policy was last updated on {0}."
+"pp_15_title","15. Legal matters"
+"processingPITableData","<tr>
+    <td>Google Inc</td>
+    <td>https://support.google.com/policies/contact/general_privacy_form</td>
+    <td>Cloud Storage</td>
+    <td>Your full name, email address and nickname when you create an account with us; details of your use of our games and websites and the resources that you access; communications with us or other users;  your interactions with us on our social media channels or feedback you send to us via our surveys; and information we collect via cookies and other similar technologies. </td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Google Ireland Limited</td>
+    <td>https://support.google.com/policies/contact/general_privacy_form</td>
+    <td>Digital marketing and in-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Ireland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Unity Technologies Finland Oy</td>
+    <td>DPO@unity3d.com</td>
+    <td>In-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Finland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Verizon Media Inc</td>
+    <td>GDPRrepresentative@mhc.ie</td>
+    <td>Digital marketing and in-game advertising</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Leanplum Inc</td>
+    <td> privacy@leanplum.com</td>
+    <td>Client relationship management</td>
+    <td>Email address, name</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Looker Data Sciences Inc</td>
+    <td>looker-data-protection@google.com</td>
+    <td>Data analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Celtra, Inc.</td>
+    <td>Privacy@Celtra.com</td>
+    <td>Carrying out player surveys</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Smart Media4U Technology Pte. Ltd</td>
+    <td>legalsupport@ushareit.com.</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Singapore</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>InMobi PTE Limited</td>
+    <td>privacy@inmobi.com </td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Singapore</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>SpotXChange Inc</td>
+    <td>privacy@spotx.tv</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Smartclip Europe (formerly known as SpotX Europe GmbH)</td>
+    <td>privacy@spotx.tv</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>Germany</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Pubmatic Inc</td>
+    <td>dpo@pubmatic.com</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Ironsource UK Limited</td>
+    <td>dpo@ironsrc.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United Kingdom</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Aarki Inc</td>
+    <td>privacy@aarki.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Moloco Inc.</td>
+    <td>privacy@molocoads.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Adikteev GmbH and Adikteev SA</td>
+    <td>dpo@adikteev.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Germany and France, respectively</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>LiftOff Inc</td>
+    <td>harry@liftoff.io</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Vungle Inc</td>
+    <td>privacy@vungle.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Digital Turbine Media, Inc</td>
+    <td>privacy@digitalturbine.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Tapjoy Inc</td>
+    <td>privacy@tapjoy.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Facebook Inc.</td>
+    <td>https://www.facebook.com/help/contact/540977946302970</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Unity Technologies Finland Oy</td>
+    <td>DPO@unity3d.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Finland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>OpenX Limited</td>
+    <td>dpo@openx.com</td>
+    <td>In-game advertising analysis</td>
+    <td>IDFA, ADID, carrier, operating system, language, country/non-specific location data</td>
+    <td>United Kingdom</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Triple Lift, Inc.</td>
+    <td>dpo@triplelift.com</td>
+    <td>Digital marketing</td>
+    <td>IDFA/ADID</td>
+    <td>United States of America</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Kayzen (Real Time Technologies GmbH)</td>
+    <td>berlin@isico-datenschutz.de</td>
+    <td>Digital marketing</td>
+    <td>IDFA, ADID</td>
+    <td>Germany</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Vanilla Forums Inc</td>
+    <td>support@vanillaforums.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address</td>
+    <td>Canada</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Engagor NV</td>
+    <td>privacy@clarabridge.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address</td>
+    <td>Belgium</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Zendesk, Inc</td>
+    <td> privacy@zendesk.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address, username, King ID, email content</td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Survey Gizmo</td>
+    <td>compliance@alchemer.com or alchemer@gdpr-rep.com </td>
+    <td>Player Surveys</td>
+    <td>King ID</td>
+    <td>United Kingdom</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>MaestroQA, Inc</td>
+    <td>privacy@maestroqa.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address, username, email content</td>
+    <td>United States</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>
+<tr>
+    <td>Intercom R&D Unlimited Company</td>
+    <td>legal@intercom.com</td>
+    <td>Provision of customer services</td>
+    <td>Email address, username, chat content</td>
+    <td>Ireland</td>
+    <td>The data is transmitted as part of an ongoing electronic data transfer between King.com Limited and the third party</td>
+    <td>Until the purpose of processing personal information is achieved</td>
+</tr>"
+"processingPITableHeadings","<tr>
+    <th>Recipient name</th>
+    <th>Contact information</th>
+    <th>Recipient's purpose of using personal information</th>
+    <th>Items of personal information transferred</th>
+    <th>Transfer location</th>
+    <th>Transfer date and method</th>
+    <th>Period of retention by recipient</th>
+</tr>"
+"processingPITitle","Delegation of processing of user's personal information"
+"purchase_cancelled_body","你已取消購買。"
+"purchase_cancelled_title","購買已取消"
+"purchase_egp_free","免費"
+"purchase_pending_body","商店的作業速度稍緩，晚點才會拿到金條。"
+"purchase_pending_title","購買處理中"
+"purchase_shop_birds_booster_description","幫你通過這個關卡的 4 隻小鳥"
+"purchase_shop_birds_booster_title","魔術小鳥"
+"purchase_shop_bomb_booster_description","成功串聯時，會消除鄰近區域的所有彩珠。"
+"purchase_shop_bomb_booster_title","爆破光暈"
+"purchase_shop_booster_button","購買"
+"purchase_shop_buy_lives","獲得生命值！"
+"purchase_shop_color_bomb_booster_description","成功串連時，會消除所有相同花色的彩珠。"
+"purchase_shop_color_bomb_booster_title","色彩爆破"
+"purchase_shop_cross_blast_hammer_booster_description","一支能對兩個方向放出爆破光暈的珠寶匠錘子。"
+"purchase_shop_cross_blast_hammer_booster_title","十字轟炸錘"
+"purchase_shop_full_lives","生命值已滿！"
+"purchase_shop_hammer_booster_description","珠寶匠的木槌可以清除指定區域的彩珠。"
+"purchase_shop_hammer_booster_title","木槌"
+"purchase_shop_no_more_lives","生命值耗盡！"
+"purchase_shop_no_more_lives_desc","請在生命值恢復前稍候片刻"
+"purchase_shop_prelevel_select_booster","選擇魔法道具："
+"purchase_success_body","你購買的「{0}」已確認！感謝你的耐心等候！"
+"purchase_success_title","購買成功"
+"rank_name_1","珠寶學徒"
+"rank_name_10","珠寶創新家"
+"rank_name_11","受人尊敬的創新家"
+"rank_name_12","知名的創新家"
+"rank_name_13","創意先鋒"
+"rank_name_14","受人尊敬的創意先鋒"
+"rank_name_15","知名的創意先鋒"
+"rank_name_16","前瞻者"
+"rank_name_17","受人尊敬的前瞻者"
+"rank_name_18","知名的前瞻者"
+"rank_name_19","榮譽珠寶大師"
+"rank_name_2","受人尊敬的學徒"
+"rank_name_20","珠寶大師"
+"rank_name_21","珠寶宗師"
+"rank_name_3","有名的學徒"
+"rank_name_4","珠寶設計師"
+"rank_name_5","受人尊重的設計師"
+"rank_name_6","知名設計師"
+"rank_name_7","珠寶創作師"
+"rank_name_8","受人尊敬的創作師"
+"rank_name_9","知名的創作師"
+"rank_up_pop_up_body","你已晉升為："
+"rank_up_pop_up_title","晉級！"
+"rank_up_tap_continue","點一下繼續"
+"rank_up_teaser","再升一級就能晉級了！"
+"release_text_01","巴黎，紐約或東京？
+接下來要去哪？
+在本次閃亮更新中找出答案吧！
+你會在本次更新中遊歷全新地區，並讓你在有趣的過程中收集鑽石。
+ 
+露西和你會一起環遊世界並找到世界中最珍貴的鑽石。
+找到並收集那些藏起來的寶石，成為世界上最棒的珠寶匠。 
+ 
+來吧！快來一起成就這段傳奇之旅！"
+"request_lives","請求"
+"reward_1_live","+1"
+"reward_1_refill_live","+1 生命值"
+"reward_1h","1 小時"
+"reward_1h_unlimited_lives","1 小時無限生命值"
+"reward_24h","24 小時"
+"reward_24h_unlimited_lives","24 小時無限生命值"
+"reward_claim","美極了！"
+"reward_new_palette","新調色盤"
+"reward_postcard","新明信片"
+"reward_you_got","繼續收集星星！"
+"run_out_1_booster","1 個魔法道具"
+"run_out_X_boosters","{0} 個魔法道具"
+"run_out_X_reward","1 份可挑選獎勵"
+"run_out_X_rewards","{0} 份可挑選獎勵"
+"run_out_announcement_intro_description","達到前三名並挑選你的優質獎勵！"
+"run_out_announcement_intro_description_case_0_1","只有前三名才有獎！"
+"run_out_banner_taken","已取得"
+"run_out_button_claim","領取"
+"run_out_button_run","開始"
+"run_out_comfort_message","你很棒！"
+"run_out_header_congratulations","可以領獎了！"
+"run_out_info_X_reward","尚餘 {0} 份獎勵"
+"run_out_info_X_rewards","可從 {0} 份獎勵中挑選"
+"run_out_info_rewards_correct","從中選擇 {0} 份獎勵"
+"run_out_victory_description","你贏了！"
+"run_out_win_to_pick","獲勝就能挑選"
+"score_collection_counters","{0}"
+"score_counters_left","你還需要 {0} 分！"
+"score_keep_linking","繼續串連，贏得高分！"
+"score_prelevel_goals","盡力得到高分！"
+"settings_privacy_policy","隱私權政策"
+"settings_terms_of_use","服務條款"
+"share_android","發送明信片的媒介："
+"share_email_subject","看看我的作品！"
+"share_get_stars","分享就能獲得 3 顆星星！"
+"share_text","看看我的作品吧！我喜歡 King 推出的新遊戲！快來體驗一下！"
+"share_the_game","分享遊戲！"
+"small_bundle.store.package_name","小組合包"
+"small_gold_package.store.package_name","小型金條包"
+"so_close_title","就差一點！"
+"social_ask_friend","請求好友協助"
+"social_auto_friends_detected","我們發現了一些新好友，現在大家可以互相幫忙了！"
+"social_auto_friends_error","抱歉，發生錯誤…"
+"social_award_announcement_description","和其他玩家一起遊戲，補滿計量表並成為黃金玩家"
+"social_award_announcement_header","黃金玩家"
+"social_award_closing_strategy","你已經展現出一位社交玩家的特質！請享受最後一天的黃金玩家身分！"
+"social_award_feedback_collect_collab","和玩家交換"
+"social_award_feedback_ping_pong","已用挑戰回敬對手"
+"social_award_feedback_send_lives","已送出生命值"
+"social_award_feedback_thdd","已送出幫助給隊友"
+"social_award_ftue_goal","繼續和其他玩家一起遊戲，補滿計量表並成為黃金玩家！"
+"social_award_ftue_golden_player","繼續和其他玩家一起遊戲，就能維持黃金玩家身分！"
+"social_award_golden_player","黃金玩家！"
+"social_award_how_to_recover","如何恢復"
+"social_award_info_collect_collab","交換鑰匙"
+"social_award_info_header","計量表補充方式"
+"social_award_info_lose","計量表的進度每天都會減少一點"
+"social_award_info_ping_pong","用挑戰回敬對手"
+"social_award_info_send_lives","每天送出生命值給玩家"
+"social_award_info_thdd","幫助隊友"
+"social_award_lose_description","記得！計量表的進度每天都會減少一點"
+"social_award_lose_header","黃金玩家身分已失效"
+"social_invite_nativesharing_label","分享遊戲"
+"social_invite_nativesharing_msg","快來和我一起加入炫彩幻妙的《寶鑽傳奇》！"
+"social_invite_nativesharing_subject","分享《寶鑽傳奇》"
+"social_msc_new_friends","新好友"
+"social_request_lives","請求生命值"
+"social_select_all","全選"
+"social_top_list","高分列表"
+"social_top_list_title","頂尖玩家"
+"special_badge_shop","超級優惠"
+"store_not_connected_2_app_store","目前無法使用 App Store！"
+"store_not_connected_2_google_play","目前無法使用 Google Play 商店！"
+"store_notconnected2amazonstore","目前無法使用 Amazon Store！"
+"susana_conclusion_1","相信自己，並跟隨自己的腳步。"
+"susana_conclusion_2","去吧，和全世界分享你的熱情。"
+"susana_development_1","你真是靈感的泉源！"
+"susana_development_2","你讓人感到精力充沛！"
+"susana_introduction_1","我相信你會成功的。"
+"susana_introduction_2","投注你的熱情和快樂！"
+"tank_healer_awaiting_results","正在等待結果…"
+"tank_healer_challenge_header","一起完成關卡"
+"tank_healer_challenge_time_remaining","{0} 小時 {1} 分 {2} 秒"
+"tank_healer_claim_hammers","獲取錘子"
+"tank_healer_claim_help","獲取協助"
+"tank_healer_claim_lives","獲取生命值"
+"tank_healer_claim_moves","獲取步數"
+"tank_healer_class_general_description","每個角色都身懷能夠協助隊友的獨特技能"
+"tank_healer_class_hammers_description","工匠能為隊友製作錘子"
+"tank_healer_class_hammers_name","工匠"
+"tank_healer_class_lives_description","醫生能夠補充隊友的生命值"
+"tank_healer_class_lives_name","醫生"
+"tank_healer_class_moves_description","指揮者可為其他隊友提供額外步數"
+"tank_healer_class_moves_name","指揮者"
+"tank_healer_class_selection_header","你想擔任哪個角色？"
+"tank_healer_failure_description","你尚未完成所有關卡。祝你下次好運！"
+"tank_healer_failure_header","時間到！"
+"tank_healer_matchmaking_progress_bar","搜尋中…"
+"tank_healer_matchmaking_progress_desc","我們會在找到完美團隊時通知你！"
+"tank_healer_matchmaking_progress_header","正在尋找其他珠寶師…"
+"tank_healer_no_connection","本挑戰需要連上網際網路！"
+"tank_healer_progress_bar_levels","{0} 個關卡"
+"tank_healer_receiving_hammers","能為隊伍製作錘子！"
+"tank_healer_receiving_lives","治療隊伍！"
+"tank_healer_receiving_moves","能夠提供協助！"
+"tank_healer_sending_hammers","正在傳送錘子！"
+"tank_healer_sending_lives","正在傳送生命值！"
+"tank_healer_sending_moves","正在傳送步數！"
+"tank_healer_skill_ready","傳送"
+"tank_healer_skill_sending","傳送中！"
+"tank_healer_team","隊友"
+"tank_healer_team_found","我幫你找到了一支優秀的團隊！"
+"tank_healer_team_progress_header","已完成的關卡"
+"tank_healer_victory_description","你及時通過了所有關卡！"
+"tank_healer_victory_header","恭喜這支隊伍！"
+"tank_healer_welcome_1","你準備好挑戰新版的珠寶師社團挑戰了嗎？我們開始吧！"
+"tank_healer_welcome_2","珠寶師社團挑戰回來囉！
+我們一起合作取得獎勵吧！"
+"tank_healer_welcome_3","歡迎來到全新的珠寶師社團挑戰！記得，同心協力是邁向成功的關鍵！"
+"tank_healer_welcome_first_time","哈囉！我是卡門，珠寶師社團的創辦人。如果我們攜手合作，一定能成為更優秀的珠寶師傅！"
+"touch_the_line_collection_counters","{0}"
+"touch_the_line_collection_counters_left","還剩 {0} 顆鑽石"
+"touch_the_line_prelevel_goals","讓鑽石落到項鍊上！"
+"tut_1_back_body","隨時都能塗上你喜歡的顏色。"
+"tut_1_back_title","繼續玩下去吧！"
+"tut_1_body","業界中首屈一指的珠寶設計師剛剛送了一張明信片給你！這真是至高榮譽！"
+"tut_1_button","趕快看看！"
+"tut_1_title","已獲得明信片！"
+"tut_2_body","藉由幫明信片著色，提升你的用色能力，並和好友們保持聯絡！"
+"tut_2_button","太棒了！"
+"tut_2_color_title","選一個"
+"tut_2_color_title_body","顏色"
+"tut_2_title","已發現的明信片"
+"tut_3_body","範本！"
+"tut_3_share_body","完成後，和好友們分享你的作品！"
+"tut_3_share_title","分享你的明信片"
+"tut_3_title","完成"
+"tut_4_body","明信片並著色！"
+"tut_4_title","選一張"
+"tut_5_zoom_body","我們來看看如何縮放"
+"tut_5_zoom_button","好"
+"tut_5_zoom_out_body","太棒了！再來將你的手指往內移動。"
+"tut_5_zoom_out_title","縮小！"
+"tut_coloring_popup_body","著色就能獲得星星！"
+"tut_coloring_popup_title","太棒了！"
+"tut_how_to_color_hand","點一下著色"
+"tut_postcard_completed_body","分享就能再獲得三顆星！"
+"tut_postcard_completed_title","太棒了，3 顆星！"
+"tutorial_bomb_create","連接 6 顆彩珠來產生爆破光暈！"
+"tutorial_bomb_trigger","連接爆破光暈來清除周圍的彩珠！"
+"tutorial_bottles","打開香水瓶就能讓香水水位升高！"
+"tutorial_chains","連接綁上緞帶的彩珠就能解開緞帶！"
+"tutorial_chaos_ray_trigger","連接兩個十字光束就能讓提升威力！"
+"tutorial_colorbomb_create","串連 12 顆同色彩珠，可產生一顆色彩爆破！"
+"tutorial_colorbomb_trigger","連接色彩爆破就能移除同花色的彩珠！"
+"tutorial_cross_blast_hammer_activation","點一下十字轟炸錘就能使用了！"
+"tutorial_cross_blast_hammer_amount_gift","這裡有份禮物送給你。需要協助的話就使用這些十字轟炸錘吧！"
+"tutorial_cross_blast_hammer_presentation","這是你的第二個珠寶工具！趕快試試吧！"
+"tutorial_feathers","在花朵旁邊連接彩珠，就能把花朵吹走。"
+"tutorial_feeder","連接珠寶盒就能打開盒子！"
+"tutorial_feeder_pu","利用特殊彩珠可以更快打開珠寶盒！"
+"tutorial_glass","連接外露的彩珠和玻璃下方的彩珠來打破玻璃。"
+"tutorial_hammer_activation","點一下木槌並使用！"
+"tutorial_hammer_amount_gift","這裡有一份送你的禮物。有需要的話就使用這些木槌吧！"
+"tutorial_hammer_amount_level","在本關卡內，你可以無限使用木槌！"
+"tutorial_hammer_drag_preview","點擊特定位置。"
+"tutorial_hammer_presentation","這是你的第一個珠寶工具！趕快試試吧！"
+"tutorial_hammer_tap","點擊木槌"
+"tutorial_hammer_tap_position","點擊特定位置"
+"tutorial_hummingbird_2","連接這種特殊的彩珠釋放魔術小鳥！"
+"tutorial_hydra_link","連接寶盒娃娃，收集鑽石！"
+"tutorial_hydra_split","大型的寶盒娃娃內藏兩個小型的娃娃！"
+"tutorial_link_rainbow_ray","用任意花色彩珠連接彩虹十字光束！"
+"tutorial_linking","連接 3 顆（或以上）彩珠"
+"tutorial_lock_and_key","連接彩珠和鑰匙就能把鎖打開！"
+"tutorial_merge_trigger","連接並合併就能提升效果的威力！"
+"tutorial_move_pu","在串連區域內移動十字光束並釋放特殊能量！"
+"tutorial_ray_creation","連接 9 顆彩珠來產生十字光束！"
+"tutorial_ray_trigger","連接十字光束，釋放它的威力！"
+"tutorial_ray_trigger_2","有一顆特殊的彩珠！快連連看！"
+"tutorial_sand","在六角格旁邊連接並消除彩珠，即可消除！"
+"tutorial_touch_the_line","繼續串連，讓鑽石落到項鍊上！"
+"tutorial_touch_the_line_below","在鑽石下方消除彩珠就能讓鑽石落下！"
+"tutorial_wood","光束無法穿透紫水晶"
+"tutorial_wood_link","在紫水晶旁邊連接並消除彩珠，即可消除！"
+"video_tutorial_title","遊戲方式"
