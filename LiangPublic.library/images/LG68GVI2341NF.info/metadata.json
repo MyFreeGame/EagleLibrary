@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"id":"LG68GVI2341NF","name":"obj3_2_e1a44959","size":1066,"btime":1680852984728,"mtime":1680852903734,"ext":"png","tags":[],"folders":["LGG6QXGM18XCZ"],"isDeleted":false,"url":"","annotation":"","modificationTime":1680852984728,"noThumbnail":true,"width":78,"height":76,"palettes":[{"color":[236,236,188],"ratio":66},{"color":[236,236,180],"ratio":18},{"color":[236,228,180],"ratio":14}],"lastModified":1681454760890}
+=======
+{"id":"LG68GVI2341NF","name":"obj3_2_e1a44959","size":1066,"btime":1681217786542,"mtime":1681217786542,"ext":"png","tags":[],"folders":["LG6BAUSS0XGFG"],"isDeleted":false,"url":"","annotation":"","modificationTime":1680852984728,"noThumbnail":true,"width":78,"height":76,"palettes":[{"color":[236,236,188],"ratio":66},{"color":[236,236,180],"ratio":18},{"color":[236,228,180],"ratio":14}],"lastModified":1681395850857}
+>>>>>>> Stashed changes
