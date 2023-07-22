@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"id":"LFZIXX84Z8DMP","name":"gd-hbimg","size":28027,"btime":1689072419932,"mtime":1689072419932,"ext":"png","tags":[],"folders":["L2D5873B6M99P"],"isDeleted":false,"url":"","annotation":"","modificationTime":1680447313016,"height":236,"width":236,"noThumbnail":true,"palettes":[{"color":[249,233,237],"ratio":70},{"color":[233,186,196],"ratio":11},{"color":[132,70,72],"ratio":8},{"color":[203,144,153],"ratio":5},{"color":[207,174,161],"ratio":0.94},{"color":[148,119,109],"ratio":0.67}],"lastModified":1689748221017}
+=======
+{"id":"LFZIXX84Z8DMP","name":"gd-hbimg","size":28027,"btime":1680789020803,"mtime":1680789020803,"ext":"png","tags":[],"folders":["L2D5873B6M99P"],"isDeleted":false,"url":"","annotation":"","modificationTime":1680447313016,"height":236,"width":236,"noThumbnail":true,"palettes":[{"color":[249,233,237],"ratio":70},{"color":[233,186,196],"ratio":11},{"color":[132,70,72],"ratio":8},{"color":[203,144,153],"ratio":5},{"color":[207,174,161],"ratio":0.94},{"color":[148,119,109],"ratio":0.67}],"lastModified":1689405058017}
+>>>>>>> Stashed changes
